@@ -1,7 +1,9 @@
 
 from urlextract import URLExtract
 extract = URLExtract()
+print("HELPER FILE LOADED - VERSION 4")
 def fetch_stats(selected_user,df):
+    print("RETURNING 4 VALUES")
 
     if selected_user != 'Overall':
         df = df[df['user'] == selected_user]
