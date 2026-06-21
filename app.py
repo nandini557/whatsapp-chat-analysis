@@ -1,6 +1,7 @@
 import streamlit as st
 import preprocessor 
 import helper
+import matplotlib.pyplot as plt
 
 st.sidebar.title("Whatsapp Chat Analyzer")
 
@@ -39,7 +40,16 @@ if uploaded_file is not None:
             st.header("Links Shared")
             st.title(num_links)
 
+        #finding most busiest user in the group 
         if selected_user =='Overall':
             st.title('Most busy user')
+            x=helper.most_busy_usrs(df)
+            fig, ax = plt.subplots()
+            col1, col2 =st.columns(2)
+
+            with col1:
+                ax.bar(x.index,x.values)
+                st.pyplot(fig)
+
 
         
