@@ -48,8 +48,10 @@ if uploaded_file is not None:
             col1, col2 =st.columns(2)
 
             with col1:
-                ax.bar(x.index,x.values)
+                ax.bar(x.index, x.values,color='red')
+                plt.xticks(rotation='vertical')
                 st.pyplot(fig)
+            
 
 
         
