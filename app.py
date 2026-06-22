@@ -51,6 +51,8 @@ if uploaded_file is not None:
                 ax.bar(x.index, x.values,color='red')
                 plt.xticks(rotation='vertical')
                 st.pyplot(fig)
+            with col2:
+                st.dataframe(new_df)
             
 
 
