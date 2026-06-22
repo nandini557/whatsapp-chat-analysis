@@ -25,8 +25,10 @@ if uploaded_file is not None:
         print(helper.fetch_stats("Overall", df))
         num_messages,words,num_media_messages,num_links = helper.fetch_stats(selected_user,df)
         
+        st.title(" Top Statistics")
         col1, col2, col3, col4 = st.columns(4)
         #stats area 
+        
         with col1:
             st.header("Total Messages")
             st.title(num_messages)
@@ -39,6 +41,15 @@ if uploaded_file is not None:
         with col4:
             st.header("Links Shared")
             st.title(num_links)
+
+
+        # monthly timeline
+        st.title("Monthly Timeline")
+        timeline = helper.monthly_timeline(selected_user,df)
+        fig,ax = plt.subplots()
+        ax.plot(timeline['time'], timeline['message'],color='green')
+        plt.xticks(rotation='vertical')
+        st.pyplot(fig)
 
         #finding most busiest user in the group 
         if selected_user =='Overall':
