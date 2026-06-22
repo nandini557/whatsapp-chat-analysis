@@ -42,14 +42,19 @@ def create_wordcloud(selected_user, df):
     if selected_user != 'Overall':
         df = df[df['user'] == selected_user]
 
-    print("Selected User:", selected_user)
-    print("Messages:", df.shape[0])
+    df = df[df['user'] != 'group_notification']
+    df = df[df['message'] != '<Media omitted>\n']
 
-    wc = WordCloud(width=500, height=500,
-                   min_font_size=10,
-                   background_color='white')
+    text = df['message'].str.cat(sep=" ")
 
-    return wc.generate(df['message'].str.cat(sep=" "))
+    wc = WordCloud(
+        width=500,
+        height=500,
+        min_font_size=10,
+        background_color='white'
+    )
+
+    return wc.generate(text)
 
 
     
