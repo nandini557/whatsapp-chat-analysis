@@ -1,30 +1,2500 @@
-31/07/2019, 19:10 - Nitish Singh: Welcome everyone
-31/07/2019, 19:11 - Nitish Singh: Session starts shortly
-31/07/2019, 19:12 - CXM11 Shantanu Shubham: Good evening sir
-31/07/2019, 19:13 - CXM46 Kaushal Agarwal: Good evening
-31/07/2019, 19:14 - Nitish Singh: Sharing the meeting link
-31/07/2019, 19:15 - Nitish Singh: Timing will be shared soon
-31/07/2019, 19:16 - CXM11 Shantanu Shubham: Thank you sir
-31/07/2019, 19:16 - CXM46 Kaushal Agarwal: Okay sir
-31/07/2019, 19:17 - Nitish Singh: If you have queries ask here
-31/07/2019, 19:18 - CXM48 Anjali: Sure sir
-31/07/2019, 19:20 - Nitish Singh: Resume reviews begin tomorrow
-31/07/2019, 19:22 - CXM43 Bhavna Kumari: Looking forward to it
-31/07/2019, 19:25 - Nitish Singh: Please fill the form
-31/07/2019, 19:28 - CXM11 Shantanu Shubham: Done
-31/07/2019, 19:30 - CXM46 Kaushal Agarwal: Submitted
-01/08/2019, 10:00 - Nitish Singh: Today's topic is LinkedIn
-01/08/2019, 10:05 - CXM48 Anjali: Great
-01/08/2019, 10:10 - CXM43 Bhavna Kumari: Excited
-01/08/2019, 10:15 - Nitish Singh: Keep your profiles ready
-01/08/2019, 10:20 - CXM11 Shantanu Shubham: Sure
-01/08/2019, 10:25 - Nitish Singh: Session starts in 5 mins
-01/08/2019, 10:30 - Nitish Singh: Session started
-01/08/2019, 10:45 - CXM46 Kaushal Agarwal: Useful tips
-01/08/2019, 10:50 - CXM48 Anjali: Learned a lot
-01/08/2019, 11:00 - Nitish Singh: Recording will be shared
-01/08/2019, 11:05 - CXM43 Bhavna Kumari: Thank you sir
-02/08/2019, 17:00 - Nitish Singh: Profile reviews begin now
-02/08/2019, 17:10 - CXM11 Shantanu Shubham: Ready
-02/08/2019, 17:20 - CXM46 Kaushal Agarwal: Waiting
-02/08/2019, 17:30 - Nitish Singh: Starting with Kaushal
+01/01/2020, 09:00 - Nitish Singh: https://github.com/example/project
+01/01/2020, 09:54 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+01/01/2020, 11:18 - CXM43 Bhavna Kumari: Session starts in 10 mins
+01/01/2020, 11:55 - Nitish Singh: Good morning everyone 😊
+01/01/2020, 12:52 - CXM46 Kaushal Agarwal: https://github.com/example/project
+01/01/2020, 14:47 - CXM11 Shantanu Shubham: <Media omitted>
+01/01/2020, 15:07 - Nitish Singh: Great session 👏
+01/01/2020, 15:17 - CXM11 Shantanu Shubham: Please check your email
+01/01/2020, 15:47 - CXM11 Shantanu Shubham: I'll join shortly
+01/01/2020, 17:37 - CXM11 Shantanu Shubham: Who is attending today?
+01/01/2020, 18:02 - CXM48 Anjali: Good morning everyone 😊
+01/01/2020, 19:06 - CXM11 Shantanu Shubham: Any updates?
+01/01/2020, 20:00 - CXM11 Shantanu Shubham: Assignment submitted
+01/01/2020, 20:23 - CXM11 Shantanu Shubham: <Media omitted>
+01/01/2020, 22:22 - CXM46 Kaushal Agarwal: 😂😂😂
+01/01/2020, 23:45 - CXM48 Anjali: <Media omitted>
+01/01/2020, 23:55 - CXM43 Bhavna Kumari: Good morning everyone 😊
+02/01/2020, 01:02 - CXM11 Shantanu Shubham: Who is attending today?
+02/01/2020, 02:09 - CXM43 Bhavna Kumari: Who is attending today?
+02/01/2020, 03:50 - Nitish Singh: Who is attending today?
+02/01/2020, 03:55 - CXM46 Kaushal Agarwal: Done 👍
+02/01/2020, 04:19 - CXM48 Anjali: <Media omitted>
+02/01/2020, 05:57 - CXM48 Anjali: Let's connect on LinkedIn
+02/01/2020, 07:50 - Nitish Singh: <Media omitted>
+02/01/2020, 09:47 - CXM11 Shantanu Shubham: Can someone share the link?
+02/01/2020, 10:37 - CXM11 Shantanu Shubham: Session starts in 10 mins
+02/01/2020, 10:38 - CXM46 Kaushal Agarwal: Who is attending today?
+02/01/2020, 11:28 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+02/01/2020, 11:35 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+02/01/2020, 12:51 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+02/01/2020, 13:53 - CXM48 Anjali: 😂😂😂
+02/01/2020, 15:06 - Nitish Singh: Any updates?
+02/01/2020, 16:45 - Nitish Singh: Great session 👏
+02/01/2020, 17:42 - CXM48 Anjali: Good morning everyone 😊
+02/01/2020, 18:58 - CXM43 Bhavna Kumari: Session starts in 10 mins
+02/01/2020, 20:21 - CXM46 Kaushal Agarwal: Done 👍
+02/01/2020, 22:10 - Nitish Singh: Great session 👏
+02/01/2020, 23:38 - CXM11 Shantanu Shubham: Awesome 🔥
+03/01/2020, 00:17 - Nitish Singh: Recording will be shared later
+03/01/2020, 01:05 - CXM46 Kaushal Agarwal: https://github.com/example/project
+03/01/2020, 02:44 - CXM46 Kaushal Agarwal: Done 👍
+03/01/2020, 04:31 - CXM43 Bhavna Kumari: https://github.com/example/project
+03/01/2020, 05:08 - CXM11 Shantanu Shubham: I'll join shortly
+03/01/2020, 05:57 - CXM48 Anjali: On my way
+03/01/2020, 06:17 - CXM11 Shantanu Shubham: On my way
+03/01/2020, 07:59 - Nitish Singh: Done 👍
+03/01/2020, 08:45 - CXM48 Anjali: On my way
+03/01/2020, 10:11 - Nitish Singh: Recording will be shared later
+03/01/2020, 10:26 - CXM46 Kaushal Agarwal: Sounds good!
+03/01/2020, 11:14 - CXM48 Anjali: Let's connect on LinkedIn
+03/01/2020, 11:23 - CXM43 Bhavna Kumari: Any updates?
+03/01/2020, 13:13 - CXM11 Shantanu Shubham: Sounds good!
+03/01/2020, 14:10 - CXM46 Kaushal Agarwal: On my way
+03/01/2020, 15:24 - Nitish Singh: Great session 👏
+03/01/2020, 17:14 - Nitish Singh: Good morning everyone 😊
+03/01/2020, 19:14 - CXM46 Kaushal Agarwal: I'll join shortly
+03/01/2020, 20:18 - CXM46 Kaushal Agarwal: I'll join shortly
+03/01/2020, 22:08 - Nitish Singh: Please check your email
+03/01/2020, 23:17 - CXM46 Kaushal Agarwal: Assignment submitted
+04/01/2020, 00:05 - Nitish Singh: Let's connect on LinkedIn
+04/01/2020, 01:01 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+04/01/2020, 01:06 - CXM11 Shantanu Shubham: I'll join shortly
+04/01/2020, 02:29 - CXM46 Kaushal Agarwal: Any updates?
+04/01/2020, 02:44 - CXM46 Kaushal Agarwal: I'll join shortly
+04/01/2020, 03:43 - Nitish Singh: Who is attending today?
+04/01/2020, 05:20 - CXM43 Bhavna Kumari: Sounds good!
+04/01/2020, 06:05 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+04/01/2020, 06:20 - CXM48 Anjali: <Media omitted>
+04/01/2020, 07:28 - CXM48 Anjali: Great session 👏
+04/01/2020, 07:41 - CXM48 Anjali: <Media omitted>
+04/01/2020, 08:42 - CXM48 Anjali: Sounds good!
+04/01/2020, 09:15 - CXM46 Kaushal Agarwal: Sounds good!
+04/01/2020, 10:10 - CXM43 Bhavna Kumari: Can someone share the link?
+04/01/2020, 10:32 - CXM43 Bhavna Kumari: Any updates?
+04/01/2020, 10:44 - CXM11 Shantanu Shubham: Can someone share the link?
+04/01/2020, 10:53 - CXM11 Shantanu Shubham: Can someone share the link?
+04/01/2020, 12:37 - Nitish Singh: Can someone share the link?
+04/01/2020, 13:46 - CXM46 Kaushal Agarwal: I'll join shortly
+04/01/2020, 14:20 - CXM48 Anjali: On my way
+04/01/2020, 14:45 - CXM48 Anjali: Assignment submitted
+04/01/2020, 15:09 - Nitish Singh: Good morning everyone 😊
+04/01/2020, 16:40 - CXM43 Bhavna Kumari: Good morning everyone 😊
+04/01/2020, 16:57 - CXM46 Kaushal Agarwal: 😂😂😂
+04/01/2020, 17:29 - CXM48 Anjali: Awesome 🔥
+04/01/2020, 17:46 - CXM48 Anjali: Assignment submitted
+04/01/2020, 19:23 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+04/01/2020, 20:39 - Nitish Singh: On my way
+04/01/2020, 21:49 - Nitish Singh: Please check your email
+04/01/2020, 23:18 - CXM48 Anjali: 😂😂😂
+05/01/2020, 00:03 - CXM46 Kaushal Agarwal: Recording will be shared later
+05/01/2020, 00:30 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+05/01/2020, 00:56 - CXM11 Shantanu Shubham: Please check your email
+05/01/2020, 02:27 - CXM43 Bhavna Kumari: Please check your email
+05/01/2020, 03:35 - Nitish Singh: 😂😂😂
+05/01/2020, 04:53 - CXM11 Shantanu Shubham: Any updates?
+05/01/2020, 05:07 - CXM46 Kaushal Agarwal: On my way
+05/01/2020, 05:59 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+05/01/2020, 06:32 - CXM43 Bhavna Kumari: Any updates?
+05/01/2020, 06:56 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+05/01/2020, 07:53 - Nitish Singh: Great session 👏
+05/01/2020, 09:00 - CXM43 Bhavna Kumari: https://github.com/example/project
+05/01/2020, 09:34 - Nitish Singh: 😂😂😂
+05/01/2020, 10:37 - CXM11 Shantanu Shubham: Done 👍
+05/01/2020, 11:48 - CXM48 Anjali: Any updates?
+05/01/2020, 12:21 - CXM48 Anjali: Assignment submitted
+05/01/2020, 14:01 - CXM48 Anjali: I'll join shortly
+05/01/2020, 14:52 - CXM48 Anjali: Recording will be shared later
+05/01/2020, 15:08 - CXM11 Shantanu Shubham: Can someone share the link?
+05/01/2020, 15:32 - CXM48 Anjali: Done 👍
+05/01/2020, 17:32 - Nitish Singh: Can someone share the link?
+05/01/2020, 19:05 - CXM43 Bhavna Kumari: Sounds good!
+05/01/2020, 20:51 - CXM43 Bhavna Kumari: Thanks sir
+05/01/2020, 21:00 - CXM48 Anjali: Done 👍
+05/01/2020, 23:00 - Nitish Singh: Session starts in 10 mins
+05/01/2020, 23:45 - CXM48 Anjali: Recording will be shared later
+06/01/2020, 01:39 - CXM43 Bhavna Kumari: Can someone share the link?
+06/01/2020, 03:07 - CXM11 Shantanu Shubham: Sounds good!
+06/01/2020, 05:03 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+06/01/2020, 05:53 - CXM46 Kaushal Agarwal: <Media omitted>
+06/01/2020, 06:08 - CXM43 Bhavna Kumari: Good morning everyone 😊
+06/01/2020, 06:28 - CXM48 Anjali: 😂😂😂
+06/01/2020, 07:07 - CXM43 Bhavna Kumari: Thanks sir
+06/01/2020, 07:19 - CXM46 Kaushal Agarwal: <Media omitted>
+06/01/2020, 07:32 - CXM11 Shantanu Shubham: I'll join shortly
+06/01/2020, 07:36 - CXM43 Bhavna Kumari: I'll join shortly
+06/01/2020, 08:08 - Nitish Singh: https://github.com/example/project
+06/01/2020, 09:55 - CXM46 Kaushal Agarwal: Assignment submitted
+06/01/2020, 11:04 - CXM43 Bhavna Kumari: Who is attending today?
+06/01/2020, 11:05 - CXM48 Anjali: Awesome 🔥
+06/01/2020, 11:45 - CXM46 Kaushal Agarwal: On my way
+06/01/2020, 12:50 - Nitish Singh: Good morning everyone 😊
+06/01/2020, 14:35 - CXM46 Kaushal Agarwal: On my way
+06/01/2020, 15:44 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+06/01/2020, 16:36 - CXM48 Anjali: On my way
+06/01/2020, 18:24 - CXM43 Bhavna Kumari: <Media omitted>
+06/01/2020, 20:02 - CXM11 Shantanu Shubham: https://github.com/example/project
+06/01/2020, 20:59 - Nitish Singh: Let's connect on LinkedIn
+06/01/2020, 22:28 - CXM46 Kaushal Agarwal: Done 👍
+06/01/2020, 23:29 - CXM46 Kaushal Agarwal: Thanks sir
+07/01/2020, 00:19 - CXM43 Bhavna Kumari: Sounds good!
+07/01/2020, 01:18 - CXM43 Bhavna Kumari: https://github.com/example/project
+07/01/2020, 02:40 - Nitish Singh: Thanks sir
+07/01/2020, 04:37 - Nitish Singh: Awesome 🔥
+07/01/2020, 05:45 - Nitish Singh: Session starts in 10 mins
+07/01/2020, 06:26 - CXM48 Anjali: Sounds good!
+07/01/2020, 07:38 - CXM48 Anjali: 😂😂😂
+07/01/2020, 07:41 - CXM48 Anjali: Awesome 🔥
+07/01/2020, 08:53 - CXM48 Anjali: <Media omitted>
+07/01/2020, 09:49 - CXM43 Bhavna Kumari: Session starts in 10 mins
+07/01/2020, 10:50 - Nitish Singh: Done 👍
+07/01/2020, 11:52 - CXM48 Anjali: Done 👍
+07/01/2020, 12:32 - CXM11 Shantanu Shubham: <Media omitted>
+07/01/2020, 12:33 - Nitish Singh: Any updates?
+07/01/2020, 14:31 - CXM48 Anjali: Session starts in 10 mins
+07/01/2020, 15:29 - CXM43 Bhavna Kumari: Please check your email
+07/01/2020, 16:42 - CXM48 Anjali: Great session 👏
+07/01/2020, 17:11 - CXM46 Kaushal Agarwal: Any updates?
+07/01/2020, 17:29 - CXM48 Anjali: <Media omitted>
+07/01/2020, 17:31 - CXM11 Shantanu Shubham: Recording will be shared later
+07/01/2020, 17:50 - Nitish Singh: Thanks sir
+07/01/2020, 17:59 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+07/01/2020, 19:45 - CXM46 Kaushal Agarwal: Any updates?
+07/01/2020, 20:11 - CXM46 Kaushal Agarwal: I'll join shortly
+07/01/2020, 20:40 - Nitish Singh: Sounds good!
+07/01/2020, 22:27 - Nitish Singh: Please check your email
+07/01/2020, 22:39 - Nitish Singh: Assignment submitted
+07/01/2020, 23:49 - CXM11 Shantanu Shubham: Thanks sir
+08/01/2020, 00:45 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+08/01/2020, 01:11 - CXM46 Kaushal Agarwal: Please check your email
+08/01/2020, 02:37 - CXM11 Shantanu Shubham: I'll join shortly
+08/01/2020, 03:11 - CXM11 Shantanu Shubham: On my way
+08/01/2020, 05:07 - CXM46 Kaushal Agarwal: 😂😂😂
+08/01/2020, 06:04 - CXM11 Shantanu Shubham: Done 👍
+08/01/2020, 07:32 - Nitish Singh: Thanks sir
+08/01/2020, 09:08 - CXM11 Shantanu Shubham: Thanks sir
+08/01/2020, 09:29 - CXM43 Bhavna Kumari: Session starts in 10 mins
+08/01/2020, 09:39 - CXM43 Bhavna Kumari: Recording will be shared later
+08/01/2020, 09:40 - CXM48 Anjali: Done 👍
+08/01/2020, 10:51 - CXM43 Bhavna Kumari: On my way
+08/01/2020, 11:39 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+08/01/2020, 12:06 - CXM11 Shantanu Shubham: Great session 👏
+08/01/2020, 12:17 - CXM46 Kaushal Agarwal: Please check your email
+08/01/2020, 13:14 - CXM46 Kaushal Agarwal: <Media omitted>
+08/01/2020, 14:35 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+08/01/2020, 15:01 - CXM48 Anjali: Any updates?
+08/01/2020, 15:22 - CXM46 Kaushal Agarwal: Great session 👏
+08/01/2020, 17:19 - Nitish Singh: Done 👍
+08/01/2020, 17:45 - Nitish Singh: Let's connect on LinkedIn
+08/01/2020, 18:44 - CXM48 Anjali: Awesome 🔥
+08/01/2020, 18:56 - CXM46 Kaushal Agarwal: Great session 👏
+08/01/2020, 19:54 - CXM43 Bhavna Kumari: Awesome 🔥
+08/01/2020, 19:56 - CXM11 Shantanu Shubham: Assignment submitted
+08/01/2020, 21:34 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+08/01/2020, 22:03 - CXM48 Anjali: Any updates?
+08/01/2020, 22:15 - CXM43 Bhavna Kumari: Great session 👏
+08/01/2020, 22:16 - CXM48 Anjali: <Media omitted>
+08/01/2020, 23:43 - CXM11 Shantanu Shubham: Done 👍
+09/01/2020, 00:37 - CXM46 Kaushal Agarwal: Awesome 🔥
+09/01/2020, 01:08 - CXM11 Shantanu Shubham: Thanks sir
+09/01/2020, 03:01 - CXM43 Bhavna Kumari: <Media omitted>
+09/01/2020, 04:07 - CXM43 Bhavna Kumari: I'll join shortly
+09/01/2020, 05:24 - CXM48 Anjali: Awesome 🔥
+09/01/2020, 06:00 - CXM46 Kaushal Agarwal: 😂😂😂
+09/01/2020, 06:48 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+09/01/2020, 07:26 - CXM43 Bhavna Kumari: Can someone share the link?
+09/01/2020, 08:10 - CXM48 Anjali: On my way
+09/01/2020, 08:22 - CXM11 Shantanu Shubham: Sounds good!
+09/01/2020, 08:57 - CXM46 Kaushal Agarwal: Any updates?
+09/01/2020, 09:15 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+09/01/2020, 10:18 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+09/01/2020, 11:21 - Nitish Singh: 😂😂😂
+09/01/2020, 11:33 - CXM48 Anjali: Assignment submitted
+09/01/2020, 12:40 - CXM11 Shantanu Shubham: Done 👍
+09/01/2020, 13:01 - CXM48 Anjali: Thanks sir
+09/01/2020, 14:24 - CXM11 Shantanu Shubham: Good morning everyone 😊
+09/01/2020, 15:22 - CXM48 Anjali: On my way
+09/01/2020, 17:21 - CXM48 Anjali: I'll join shortly
+09/01/2020, 18:43 - CXM11 Shantanu Shubham: Good morning everyone 😊
+09/01/2020, 19:46 - CXM11 Shantanu Shubham: https://github.com/example/project
+09/01/2020, 20:34 - CXM46 Kaushal Agarwal: Assignment submitted
+09/01/2020, 21:35 - CXM11 Shantanu Shubham: Good morning everyone 😊
+09/01/2020, 23:34 - Nitish Singh: I'll join shortly
+10/01/2020, 01:31 - Nitish Singh: https://github.com/example/project
+10/01/2020, 02:22 - CXM43 Bhavna Kumari: Any updates?
+10/01/2020, 04:16 - CXM11 Shantanu Shubham: Session starts in 10 mins
+10/01/2020, 04:57 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+10/01/2020, 06:41 - Nitish Singh: Awesome 🔥
+10/01/2020, 08:20 - CXM46 Kaushal Agarwal: 😂😂😂
+10/01/2020, 08:39 - CXM46 Kaushal Agarwal: Please check your email
+10/01/2020, 09:55 - Nitish Singh: https://github.com/example/project
+10/01/2020, 11:38 - CXM43 Bhavna Kumari: 😂😂😂
+10/01/2020, 13:03 - CXM46 Kaushal Agarwal: On my way
+10/01/2020, 13:22 - CXM11 Shantanu Shubham: Any updates?
+10/01/2020, 13:29 - CXM11 Shantanu Shubham: On my way
+10/01/2020, 15:18 - CXM48 Anjali: I'll join shortly
+10/01/2020, 17:04 - CXM48 Anjali: Assignment submitted
+10/01/2020, 18:21 - CXM48 Anjali: Recording will be shared later
+10/01/2020, 20:20 - CXM11 Shantanu Shubham: Thanks sir
+10/01/2020, 20:36 - CXM48 Anjali: Great session 👏
+10/01/2020, 21:43 - CXM43 Bhavna Kumari: 😂😂😂
+10/01/2020, 22:05 - CXM46 Kaushal Agarwal: Recording will be shared later
+10/01/2020, 23:49 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+11/01/2020, 00:27 - CXM48 Anjali: Awesome 🔥
+11/01/2020, 02:27 - Nitish Singh: Who is attending today?
+11/01/2020, 03:00 - CXM48 Anjali: <Media omitted>
+11/01/2020, 04:28 - Nitish Singh: Recording will be shared later
+11/01/2020, 05:41 - CXM46 Kaushal Agarwal: 😂😂😂
+11/01/2020, 07:08 - CXM48 Anjali: https://github.com/example/project
+11/01/2020, 07:55 - CXM11 Shantanu Shubham: https://github.com/example/project
+11/01/2020, 08:28 - CXM43 Bhavna Kumari: Please check your email
+11/01/2020, 10:19 - Nitish Singh: On my way
+11/01/2020, 10:36 - CXM46 Kaushal Agarwal: Recording will be shared later
+11/01/2020, 11:39 - CXM46 Kaushal Agarwal: Awesome 🔥
+11/01/2020, 13:31 - CXM46 Kaushal Agarwal: Recording will be shared later
+11/01/2020, 14:20 - CXM48 Anjali: On my way
+11/01/2020, 16:08 - CXM43 Bhavna Kumari: Thanks sir
+11/01/2020, 17:35 - CXM11 Shantanu Shubham: On my way
+11/01/2020, 19:26 - CXM48 Anjali: Please check your email
+11/01/2020, 20:29 - CXM46 Kaushal Agarwal: Done 👍
+11/01/2020, 21:29 - Nitish Singh: Let's connect on LinkedIn
+11/01/2020, 22:47 - CXM48 Anjali: Any updates?
+11/01/2020, 23:39 - CXM46 Kaushal Agarwal: Can someone share the link?
+12/01/2020, 00:39 - CXM11 Shantanu Shubham: Great session 👏
+12/01/2020, 02:06 - CXM46 Kaushal Agarwal: Awesome 🔥
+12/01/2020, 02:38 - CXM48 Anjali: 😂😂😂
+12/01/2020, 02:46 - CXM43 Bhavna Kumari: Session starts in 10 mins
+12/01/2020, 03:49 - CXM46 Kaushal Agarwal: Assignment submitted
+12/01/2020, 05:38 - CXM43 Bhavna Kumari: I'll join shortly
+12/01/2020, 06:03 - Nitish Singh: Sounds good!
+12/01/2020, 07:56 - CXM43 Bhavna Kumari: Done 👍
+12/01/2020, 08:17 - CXM48 Anjali: I'll join shortly
+12/01/2020, 08:45 - CXM43 Bhavna Kumari: Session starts in 10 mins
+12/01/2020, 10:27 - CXM48 Anjali: Please check your email
+12/01/2020, 11:11 - Nitish Singh: Session starts in 10 mins
+12/01/2020, 13:05 - Nitish Singh: Can someone share the link?
+12/01/2020, 14:53 - CXM48 Anjali: Assignment submitted
+12/01/2020, 15:24 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+12/01/2020, 15:48 - CXM48 Anjali: https://github.com/example/project
+12/01/2020, 17:04 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+12/01/2020, 17:11 - Nitish Singh: <Media omitted>
+12/01/2020, 17:59 - Nitish Singh: Thanks sir
+12/01/2020, 18:46 - Nitish Singh: Can someone share the link?
+12/01/2020, 18:47 - CXM48 Anjali: Awesome 🔥
+12/01/2020, 20:29 - CXM43 Bhavna Kumari: Can someone share the link?
+12/01/2020, 21:53 - CXM48 Anjali: Recording will be shared later
+12/01/2020, 23:24 - CXM43 Bhavna Kumari: 😂😂😂
+13/01/2020, 00:59 - CXM11 Shantanu Shubham: https://github.com/example/project
+13/01/2020, 02:20 - CXM11 Shantanu Shubham: Recording will be shared later
+13/01/2020, 04:09 - CXM48 Anjali: Good morning everyone 😊
+13/01/2020, 04:36 - CXM43 Bhavna Kumari: Recording will be shared later
+13/01/2020, 05:48 - CXM11 Shantanu Shubham: On my way
+13/01/2020, 07:21 - CXM11 Shantanu Shubham: I'll join shortly
+13/01/2020, 08:59 - CXM43 Bhavna Kumari: Sounds good!
+13/01/2020, 09:47 - CXM43 Bhavna Kumari: Awesome 🔥
+13/01/2020, 11:07 - CXM46 Kaushal Agarwal: <Media omitted>
+13/01/2020, 12:55 - CXM43 Bhavna Kumari: Please check your email
+13/01/2020, 14:45 - CXM48 Anjali: Session starts in 10 mins
+13/01/2020, 16:07 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+13/01/2020, 17:09 - Nitish Singh: Any updates?
+13/01/2020, 17:49 - CXM11 Shantanu Shubham: Can someone share the link?
+13/01/2020, 18:55 - Nitish Singh: Good morning everyone 😊
+13/01/2020, 20:17 - Nitish Singh: Awesome 🔥
+13/01/2020, 20:18 - CXM48 Anjali: Let's connect on LinkedIn
+13/01/2020, 21:12 - CXM11 Shantanu Shubham: Thanks sir
+13/01/2020, 22:43 - CXM46 Kaushal Agarwal: Any updates?
+14/01/2020, 00:20 - Nitish Singh: On my way
+14/01/2020, 01:55 - CXM48 Anjali: I'll join shortly
+14/01/2020, 03:34 - CXM48 Anjali: 😂😂😂
+14/01/2020, 03:43 - CXM46 Kaushal Agarwal: Great session 👏
+14/01/2020, 04:37 - CXM48 Anjali: I'll join shortly
+14/01/2020, 06:34 - CXM11 Shantanu Shubham: Any updates?
+14/01/2020, 07:26 - CXM11 Shantanu Shubham: <Media omitted>
+14/01/2020, 07:42 - Nitish Singh: I'll join shortly
+14/01/2020, 08:17 - Nitish Singh: Awesome 🔥
+14/01/2020, 10:08 - CXM48 Anjali: Let's connect on LinkedIn
+14/01/2020, 11:20 - CXM11 Shantanu Shubham: On my way
+14/01/2020, 11:45 - Nitish Singh: Great session 👏
+14/01/2020, 12:27 - CXM46 Kaushal Agarwal: Recording will be shared later
+14/01/2020, 12:37 - CXM46 Kaushal Agarwal: https://github.com/example/project
+14/01/2020, 13:02 - CXM11 Shantanu Shubham: Who is attending today?
+14/01/2020, 14:53 - CXM48 Anjali: https://github.com/example/project
+14/01/2020, 15:21 - CXM11 Shantanu Shubham: Recording will be shared later
+14/01/2020, 17:07 - CXM11 Shantanu Shubham: Session starts in 10 mins
+14/01/2020, 18:22 - CXM43 Bhavna Kumari: Assignment submitted
+14/01/2020, 19:28 - Nitish Singh: On my way
+14/01/2020, 21:03 - Nitish Singh: https://github.com/example/project
+14/01/2020, 22:16 - CXM11 Shantanu Shubham: Who is attending today?
+14/01/2020, 23:31 - CXM46 Kaushal Agarwal: 😂😂😂
+15/01/2020, 00:11 - Nitish Singh: Thanks sir
+15/01/2020, 02:00 - CXM43 Bhavna Kumari: Assignment submitted
+15/01/2020, 02:18 - CXM43 Bhavna Kumari: 😂😂😂
+15/01/2020, 03:23 - CXM46 Kaushal Agarwal: Assignment submitted
+15/01/2020, 03:32 - CXM46 Kaushal Agarwal: Awesome 🔥
+15/01/2020, 05:00 - CXM48 Anjali: https://github.com/example/project
+15/01/2020, 06:32 - Nitish Singh: Awesome 🔥
+15/01/2020, 07:48 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+15/01/2020, 09:33 - CXM43 Bhavna Kumari: Please check your email
+15/01/2020, 10:46 - Nitish Singh: Session starts in 10 mins
+15/01/2020, 11:01 - CXM11 Shantanu Shubham: https://github.com/example/project
+15/01/2020, 12:01 - CXM48 Anjali: Who is attending today?
+15/01/2020, 13:38 - CXM11 Shantanu Shubham: <Media omitted>
+15/01/2020, 14:56 - CXM43 Bhavna Kumari: Thanks sir
+15/01/2020, 15:42 - CXM43 Bhavna Kumari: Done 👍
+15/01/2020, 17:27 - CXM48 Anjali: https://github.com/example/project
+15/01/2020, 18:18 - CXM43 Bhavna Kumari: I'll join shortly
+15/01/2020, 19:39 - CXM48 Anjali: <Media omitted>
+15/01/2020, 21:17 - CXM48 Anjali: <Media omitted>
+15/01/2020, 22:49 - Nitish Singh: Good morning everyone 😊
+16/01/2020, 00:42 - CXM43 Bhavna Kumari: Done 👍
+16/01/2020, 02:17 - CXM46 Kaushal Agarwal: Assignment submitted
+16/01/2020, 03:54 - CXM46 Kaushal Agarwal: Can someone share the link?
+16/01/2020, 04:44 - CXM43 Bhavna Kumari: Any updates?
+16/01/2020, 05:06 - CXM11 Shantanu Shubham: Thanks sir
+16/01/2020, 05:37 - CXM43 Bhavna Kumari: 😂😂😂
+16/01/2020, 06:18 - Nitish Singh: Good morning everyone 😊
+16/01/2020, 06:43 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+16/01/2020, 07:03 - CXM48 Anjali: Let's connect on LinkedIn
+16/01/2020, 09:02 - CXM48 Anjali: Assignment submitted
+16/01/2020, 11:00 - CXM48 Anjali: Let's connect on LinkedIn
+16/01/2020, 11:46 - CXM46 Kaushal Agarwal: Recording will be shared later
+16/01/2020, 12:48 - CXM46 Kaushal Agarwal: Thanks sir
+16/01/2020, 13:01 - CXM48 Anjali: Assignment submitted
+16/01/2020, 13:04 - CXM11 Shantanu Shubham: I'll join shortly
+16/01/2020, 14:37 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+16/01/2020, 15:51 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+16/01/2020, 16:24 - CXM48 Anjali: 😂😂😂
+16/01/2020, 16:41 - CXM46 Kaushal Agarwal: Can someone share the link?
+16/01/2020, 18:41 - CXM11 Shantanu Shubham: Session starts in 10 mins
+16/01/2020, 20:22 - CXM11 Shantanu Shubham: <Media omitted>
+16/01/2020, 21:23 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+16/01/2020, 22:26 - Nitish Singh: Awesome 🔥
+16/01/2020, 23:51 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+17/01/2020, 00:27 - Nitish Singh: Please check your email
+17/01/2020, 00:47 - CXM46 Kaushal Agarwal: Please check your email
+17/01/2020, 02:03 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+17/01/2020, 03:02 - CXM46 Kaushal Agarwal: Who is attending today?
+17/01/2020, 03:39 - CXM48 Anjali: I'll join shortly
+17/01/2020, 04:34 - CXM11 Shantanu Shubham: Who is attending today?
+17/01/2020, 05:53 - CXM48 Anjali: 😂😂😂
+17/01/2020, 07:46 - CXM48 Anjali: On my way
+17/01/2020, 09:40 - CXM43 Bhavna Kumari: Who is attending today?
+17/01/2020, 10:57 - Nitish Singh: Done 👍
+17/01/2020, 12:30 - CXM46 Kaushal Agarwal: https://github.com/example/project
+17/01/2020, 13:00 - Nitish Singh: Any updates?
+17/01/2020, 13:31 - CXM11 Shantanu Shubham: Please check your email
+17/01/2020, 15:29 - Nitish Singh: Great session 👏
+17/01/2020, 17:29 - CXM43 Bhavna Kumari: On my way
+17/01/2020, 18:29 - Nitish Singh: https://github.com/example/project
+17/01/2020, 19:30 - CXM43 Bhavna Kumari: Any updates?
+17/01/2020, 21:28 - Nitish Singh: Recording will be shared later
+17/01/2020, 22:58 - CXM11 Shantanu Shubham: Who is attending today?
+17/01/2020, 23:13 - CXM11 Shantanu Shubham: 😂😂😂
+18/01/2020, 00:53 - CXM11 Shantanu Shubham: On my way
+18/01/2020, 01:40 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+18/01/2020, 02:55 - Nitish Singh: 😂😂😂
+18/01/2020, 03:42 - CXM11 Shantanu Shubham: Thanks sir
+18/01/2020, 04:04 - CXM43 Bhavna Kumari: Session starts in 10 mins
+18/01/2020, 04:49 - Nitish Singh: Can someone share the link?
+18/01/2020, 06:22 - CXM43 Bhavna Kumari: Recording will be shared later
+18/01/2020, 06:27 - Nitish Singh: Good morning everyone 😊
+18/01/2020, 07:42 - CXM43 Bhavna Kumari: Assignment submitted
+18/01/2020, 08:13 - CXM46 Kaushal Agarwal: Great session 👏
+18/01/2020, 09:03 - CXM11 Shantanu Shubham: Recording will be shared later
+18/01/2020, 09:38 - CXM11 Shantanu Shubham: Great session 👏
+18/01/2020, 09:54 - CXM46 Kaushal Agarwal: Sounds good!
+18/01/2020, 10:34 - CXM48 Anjali: <Media omitted>
+18/01/2020, 11:31 - CXM11 Shantanu Shubham: Assignment submitted
+18/01/2020, 12:17 - CXM48 Anjali: Sounds good!
+18/01/2020, 12:22 - CXM43 Bhavna Kumari: https://github.com/example/project
+18/01/2020, 12:37 - CXM48 Anjali: Assignment submitted
+18/01/2020, 13:47 - CXM48 Anjali: Please check your email
+18/01/2020, 14:38 - CXM43 Bhavna Kumari: <Media omitted>
+18/01/2020, 14:43 - CXM43 Bhavna Kumari: Please check your email
+18/01/2020, 16:10 - CXM48 Anjali: Great session 👏
+18/01/2020, 17:16 - CXM11 Shantanu Shubham: I'll join shortly
+18/01/2020, 18:58 - CXM43 Bhavna Kumari: Assignment submitted
+18/01/2020, 20:02 - CXM43 Bhavna Kumari: Great session 👏
+18/01/2020, 20:38 - CXM11 Shantanu Shubham: <Media omitted>
+18/01/2020, 21:10 - CXM48 Anjali: Great session 👏
+18/01/2020, 21:53 - CXM43 Bhavna Kumari: Good morning everyone 😊
+18/01/2020, 23:02 - CXM46 Kaushal Agarwal: Done 👍
+19/01/2020, 00:35 - Nitish Singh: Let's connect on LinkedIn
+19/01/2020, 02:03 - CXM43 Bhavna Kumari: Session starts in 10 mins
+19/01/2020, 02:16 - CXM48 Anjali: 😂😂😂
+19/01/2020, 04:13 - CXM11 Shantanu Shubham: Sounds good!
+19/01/2020, 05:11 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+19/01/2020, 06:00 - CXM11 Shantanu Shubham: https://github.com/example/project
+19/01/2020, 07:44 - CXM46 Kaushal Agarwal: Thanks sir
+19/01/2020, 09:43 - CXM43 Bhavna Kumari: Sounds good!
+19/01/2020, 09:59 - CXM43 Bhavna Kumari: <Media omitted>
+19/01/2020, 11:55 - CXM11 Shantanu Shubham: On my way
+19/01/2020, 13:28 - Nitish Singh: https://github.com/example/project
+19/01/2020, 14:58 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+19/01/2020, 16:27 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+19/01/2020, 18:08 - Nitish Singh: Awesome 🔥
+19/01/2020, 18:42 - CXM43 Bhavna Kumari: Great session 👏
+19/01/2020, 19:12 - CXM46 Kaushal Agarwal: Any updates?
+19/01/2020, 19:35 - Nitish Singh: Assignment submitted
+19/01/2020, 21:06 - CXM48 Anjali: 😂😂😂
+19/01/2020, 21:23 - Nitish Singh: Recording will be shared later
+19/01/2020, 22:18 - CXM46 Kaushal Agarwal: Assignment submitted
+19/01/2020, 23:57 - CXM46 Kaushal Agarwal: Sounds good!
+20/01/2020, 01:15 - CXM11 Shantanu Shubham: Assignment submitted
+20/01/2020, 03:06 - Nitish Singh: Good morning everyone 😊
+20/01/2020, 03:51 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+20/01/2020, 04:46 - CXM46 Kaushal Agarwal: Recording will be shared later
+20/01/2020, 05:36 - CXM11 Shantanu Shubham: https://github.com/example/project
+20/01/2020, 07:21 - CXM11 Shantanu Shubham: Assignment submitted
+20/01/2020, 07:32 - CXM43 Bhavna Kumari: Assignment submitted
+20/01/2020, 08:54 - CXM43 Bhavna Kumari: Assignment submitted
+20/01/2020, 10:19 - Nitish Singh: Great session 👏
+20/01/2020, 12:12 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+20/01/2020, 13:37 - CXM11 Shantanu Shubham: Great session 👏
+20/01/2020, 14:49 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+20/01/2020, 15:38 - CXM11 Shantanu Shubham: Session starts in 10 mins
+20/01/2020, 16:50 - Nitish Singh: Great session 👏
+20/01/2020, 16:56 - CXM11 Shantanu Shubham: Assignment submitted
+20/01/2020, 18:44 - CXM48 Anjali: 😂😂😂
+20/01/2020, 20:09 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+20/01/2020, 21:12 - CXM46 Kaushal Agarwal: Great session 👏
+20/01/2020, 23:09 - CXM43 Bhavna Kumari: Thanks sir
+20/01/2020, 23:25 - CXM46 Kaushal Agarwal: Please check your email
+20/01/2020, 23:49 - CXM43 Bhavna Kumari: Done 👍
+20/01/2020, 23:57 - CXM48 Anjali: https://github.com/example/project
+21/01/2020, 00:31 - CXM46 Kaushal Agarwal: Done 👍
+21/01/2020, 02:14 - CXM46 Kaushal Agarwal: Thanks sir
+21/01/2020, 02:37 - CXM43 Bhavna Kumari: Thanks sir
+21/01/2020, 02:51 - CXM46 Kaushal Agarwal: 😂😂😂
+21/01/2020, 03:46 - CXM43 Bhavna Kumari: Recording will be shared later
+21/01/2020, 05:39 - CXM46 Kaushal Agarwal: <Media omitted>
+21/01/2020, 07:31 - CXM48 Anjali: Sounds good!
+21/01/2020, 07:34 - Nitish Singh: Can someone share the link?
+21/01/2020, 07:50 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+21/01/2020, 08:21 - CXM46 Kaushal Agarwal: Any updates?
+21/01/2020, 09:54 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+21/01/2020, 11:36 - Nitish Singh: <Media omitted>
+21/01/2020, 13:27 - CXM11 Shantanu Shubham: <Media omitted>
+21/01/2020, 14:35 - CXM48 Anjali: Thanks sir
+21/01/2020, 16:22 - CXM48 Anjali: <Media omitted>
+21/01/2020, 16:58 - CXM43 Bhavna Kumari: Any updates?
+21/01/2020, 18:15 - CXM43 Bhavna Kumari: Any updates?
+21/01/2020, 18:37 - CXM43 Bhavna Kumari: Can someone share the link?
+21/01/2020, 19:17 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+21/01/2020, 20:42 - Nitish Singh: Can someone share the link?
+21/01/2020, 21:09 - CXM43 Bhavna Kumari: Please check your email
+21/01/2020, 23:00 - CXM46 Kaushal Agarwal: https://github.com/example/project
+21/01/2020, 23:28 - Nitish Singh: I'll join shortly
+22/01/2020, 00:30 - CXM43 Bhavna Kumari: Session starts in 10 mins
+22/01/2020, 01:52 - CXM11 Shantanu Shubham: 😂😂😂
+22/01/2020, 03:38 - CXM43 Bhavna Kumari: https://github.com/example/project
+22/01/2020, 04:42 - CXM11 Shantanu Shubham: https://github.com/example/project
+22/01/2020, 06:22 - Nitish Singh: Sounds good!
+22/01/2020, 06:24 - CXM46 Kaushal Agarwal: Can someone share the link?
+22/01/2020, 06:37 - CXM11 Shantanu Shubham: Any updates?
+22/01/2020, 07:08 - CXM46 Kaushal Agarwal: Please check your email
+22/01/2020, 07:41 - CXM11 Shantanu Shubham: Who is attending today?
+22/01/2020, 08:39 - CXM11 Shantanu Shubham: On my way
+22/01/2020, 10:34 - CXM46 Kaushal Agarwal: On my way
+22/01/2020, 12:16 - Nitish Singh: 😂😂😂
+22/01/2020, 13:07 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+22/01/2020, 14:12 - Nitish Singh: Sounds good!
+22/01/2020, 14:41 - CXM11 Shantanu Shubham: Session starts in 10 mins
+22/01/2020, 15:41 - CXM11 Shantanu Shubham: 😂😂😂
+22/01/2020, 16:16 - CXM11 Shantanu Shubham: Please check your email
+22/01/2020, 18:00 - CXM43 Bhavna Kumari: 😂😂😂
+22/01/2020, 19:23 - CXM48 Anjali: <Media omitted>
+22/01/2020, 20:16 - CXM46 Kaushal Agarwal: Recording will be shared later
+22/01/2020, 21:32 - Nitish Singh: Recording will be shared later
+22/01/2020, 21:52 - CXM48 Anjali: Recording will be shared later
+22/01/2020, 21:54 - CXM48 Anjali: Great session 👏
+22/01/2020, 23:03 - CXM11 Shantanu Shubham: On my way
+22/01/2020, 23:10 - CXM43 Bhavna Kumari: Can someone share the link?
+23/01/2020, 00:09 - Nitish Singh: https://github.com/example/project
+23/01/2020, 01:32 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+23/01/2020, 02:30 - CXM48 Anjali: Please check your email
+23/01/2020, 04:19 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+23/01/2020, 05:29 - CXM11 Shantanu Shubham: Any updates?
+23/01/2020, 06:35 - CXM48 Anjali: Session starts in 10 mins
+23/01/2020, 08:05 - CXM11 Shantanu Shubham: Thanks sir
+23/01/2020, 09:53 - CXM48 Anjali: 😂😂😂
+23/01/2020, 11:42 - CXM43 Bhavna Kumari: Please check your email
+23/01/2020, 11:46 - CXM43 Bhavna Kumari: Awesome 🔥
+23/01/2020, 13:11 - CXM43 Bhavna Kumari: Done 👍
+23/01/2020, 13:46 - CXM11 Shantanu Shubham: Please check your email
+23/01/2020, 15:24 - Nitish Singh: Good morning everyone 😊
+23/01/2020, 16:44 - CXM46 Kaushal Agarwal: Any updates?
+23/01/2020, 17:25 - CXM11 Shantanu Shubham: 😂😂😂
+23/01/2020, 19:19 - CXM48 Anjali: Good morning everyone 😊
+23/01/2020, 20:39 - CXM46 Kaushal Agarwal: Recording will be shared later
+23/01/2020, 20:46 - CXM11 Shantanu Shubham: Sounds good!
+23/01/2020, 21:37 - CXM43 Bhavna Kumari: Session starts in 10 mins
+23/01/2020, 22:41 - CXM46 Kaushal Agarwal: Awesome 🔥
+23/01/2020, 23:59 - CXM48 Anjali: Session starts in 10 mins
+24/01/2020, 01:14 - CXM48 Anjali: Sounds good!
+24/01/2020, 02:45 - CXM11 Shantanu Shubham: On my way
+24/01/2020, 04:17 - CXM46 Kaushal Agarwal: Great session 👏
+24/01/2020, 04:31 - CXM43 Bhavna Kumari: On my way
+24/01/2020, 04:36 - CXM43 Bhavna Kumari: <Media omitted>
+24/01/2020, 04:46 - CXM11 Shantanu Shubham: <Media omitted>
+24/01/2020, 05:10 - CXM43 Bhavna Kumari: Sounds good!
+24/01/2020, 05:27 - CXM46 Kaushal Agarwal: Any updates?
+24/01/2020, 06:50 - CXM11 Shantanu Shubham: Who is attending today?
+24/01/2020, 07:34 - Nitish Singh: Assignment submitted
+24/01/2020, 08:48 - CXM48 Anjali: On my way
+24/01/2020, 09:08 - CXM11 Shantanu Shubham: Great session 👏
+24/01/2020, 10:13 - Nitish Singh: Please check your email
+24/01/2020, 11:03 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+24/01/2020, 11:56 - CXM43 Bhavna Kumari: Recording will be shared later
+24/01/2020, 11:57 - Nitish Singh: Awesome 🔥
+24/01/2020, 13:54 - CXM46 Kaushal Agarwal: <Media omitted>
+24/01/2020, 15:13 - CXM43 Bhavna Kumari: Any updates?
+24/01/2020, 16:51 - CXM48 Anjali: <Media omitted>
+24/01/2020, 17:35 - CXM11 Shantanu Shubham: Please check your email
+24/01/2020, 17:40 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+24/01/2020, 17:49 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+24/01/2020, 19:43 - CXM11 Shantanu Shubham: Done 👍
+24/01/2020, 21:26 - CXM48 Anjali: Assignment submitted
+24/01/2020, 21:36 - CXM46 Kaushal Agarwal: Great session 👏
+24/01/2020, 22:07 - Nitish Singh: Done 👍
+24/01/2020, 22:43 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+24/01/2020, 22:57 - CXM11 Shantanu Shubham: Any updates?
+25/01/2020, 00:44 - CXM48 Anjali: Can someone share the link?
+25/01/2020, 01:10 - CXM43 Bhavna Kumari: 😂😂😂
+25/01/2020, 02:12 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+25/01/2020, 03:06 - CXM11 Shantanu Shubham: On my way
+25/01/2020, 04:49 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+25/01/2020, 04:52 - CXM48 Anjali: Assignment submitted
+25/01/2020, 04:56 - Nitish Singh: Good morning everyone 😊
+25/01/2020, 06:41 - Nitish Singh: Thanks sir
+25/01/2020, 06:51 - CXM48 Anjali: Who is attending today?
+25/01/2020, 08:17 - CXM11 Shantanu Shubham: Done 👍
+25/01/2020, 09:02 - CXM48 Anjali: Good morning everyone 😊
+25/01/2020, 09:24 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+25/01/2020, 11:12 - CXM11 Shantanu Shubham: Any updates?
+25/01/2020, 12:59 - CXM43 Bhavna Kumari: I'll join shortly
+25/01/2020, 14:23 - CXM48 Anjali: Session starts in 10 mins
+25/01/2020, 16:19 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+25/01/2020, 16:24 - CXM43 Bhavna Kumari: Session starts in 10 mins
+25/01/2020, 17:54 - CXM46 Kaushal Agarwal: 😂😂😂
+25/01/2020, 19:48 - CXM46 Kaushal Agarwal: Done 👍
+25/01/2020, 19:51 - CXM48 Anjali: Session starts in 10 mins
+25/01/2020, 19:54 - CXM48 Anjali: Assignment submitted
+25/01/2020, 21:06 - CXM46 Kaushal Agarwal: <Media omitted>
+25/01/2020, 21:44 - CXM48 Anjali: Done 👍
+25/01/2020, 21:51 - Nitish Singh: On my way
+25/01/2020, 23:30 - CXM43 Bhavna Kumari: Who is attending today?
+26/01/2020, 00:01 - Nitish Singh: I'll join shortly
+26/01/2020, 00:03 - CXM11 Shantanu Shubham: <Media omitted>
+26/01/2020, 00:45 - CXM46 Kaushal Agarwal: Assignment submitted
+26/01/2020, 02:27 - Nitish Singh: Good morning everyone 😊
+26/01/2020, 03:30 - CXM46 Kaushal Agarwal: <Media omitted>
+26/01/2020, 04:20 - Nitish Singh: Done 👍
+26/01/2020, 04:23 - Nitish Singh: https://github.com/example/project
+26/01/2020, 05:10 - CXM46 Kaushal Agarwal: I'll join shortly
+26/01/2020, 05:13 - CXM46 Kaushal Agarwal: Thanks sir
+26/01/2020, 07:07 - CXM43 Bhavna Kumari: Awesome 🔥
+26/01/2020, 07:10 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+26/01/2020, 08:25 - CXM46 Kaushal Agarwal: Sounds good!
+26/01/2020, 09:28 - CXM11 Shantanu Shubham: Session starts in 10 mins
+26/01/2020, 10:49 - CXM11 Shantanu Shubham: <Media omitted>
+26/01/2020, 12:47 - CXM48 Anjali: Recording will be shared later
+26/01/2020, 14:14 - CXM11 Shantanu Shubham: Recording will be shared later
+26/01/2020, 16:06 - Nitish Singh: I'll join shortly
+26/01/2020, 17:36 - CXM11 Shantanu Shubham: https://github.com/example/project
+26/01/2020, 17:49 - Nitish Singh: Thanks sir
+26/01/2020, 18:43 - CXM11 Shantanu Shubham: https://github.com/example/project
+26/01/2020, 20:43 - CXM43 Bhavna Kumari: On my way
+26/01/2020, 21:30 - CXM46 Kaushal Agarwal: Assignment submitted
+26/01/2020, 22:49 - Nitish Singh: Let's connect on LinkedIn
+26/01/2020, 23:30 - CXM46 Kaushal Agarwal: Assignment submitted
+27/01/2020, 00:54 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+27/01/2020, 02:03 - CXM48 Anjali: Great session 👏
+27/01/2020, 02:10 - Nitish Singh: Great session 👏
+27/01/2020, 03:44 - CXM43 Bhavna Kumari: On my way
+27/01/2020, 05:20 - CXM43 Bhavna Kumari: 😂😂😂
+27/01/2020, 06:46 - Nitish Singh: Assignment submitted
+27/01/2020, 08:33 - CXM46 Kaushal Agarwal: Recording will be shared later
+27/01/2020, 08:50 - CXM48 Anjali: Let's connect on LinkedIn
+27/01/2020, 10:16 - Nitish Singh: Who is attending today?
+27/01/2020, 10:33 - CXM46 Kaushal Agarwal: Recording will be shared later
+27/01/2020, 11:56 - CXM43 Bhavna Kumari: Awesome 🔥
+27/01/2020, 12:21 - CXM43 Bhavna Kumari: Recording will be shared later
+27/01/2020, 13:58 - CXM11 Shantanu Shubham: Session starts in 10 mins
+27/01/2020, 14:33 - CXM46 Kaushal Agarwal: https://github.com/example/project
+27/01/2020, 14:35 - CXM11 Shantanu Shubham: I'll join shortly
+27/01/2020, 14:43 - CXM11 Shantanu Shubham: Assignment submitted
+27/01/2020, 16:40 - CXM11 Shantanu Shubham: Done 👍
+27/01/2020, 17:12 - Nitish Singh: Recording will be shared later
+27/01/2020, 17:24 - CXM11 Shantanu Shubham: Can someone share the link?
+27/01/2020, 17:34 - CXM43 Bhavna Kumari: <Media omitted>
+27/01/2020, 19:24 - CXM46 Kaushal Agarwal: Done 👍
+27/01/2020, 19:36 - CXM48 Anjali: I'll join shortly
+27/01/2020, 21:04 - CXM43 Bhavna Kumari: Sounds good!
+27/01/2020, 22:23 - Nitish Singh: Let's connect on LinkedIn
+27/01/2020, 23:32 - CXM46 Kaushal Agarwal: On my way
+28/01/2020, 00:45 - CXM11 Shantanu Shubham: Great session 👏
+28/01/2020, 02:08 - CXM46 Kaushal Agarwal: Assignment submitted
+28/01/2020, 03:26 - CXM48 Anjali: Sounds good!
+28/01/2020, 05:24 - CXM11 Shantanu Shubham: On my way
+28/01/2020, 05:34 - CXM46 Kaushal Agarwal: Done 👍
+28/01/2020, 06:38 - CXM43 Bhavna Kumari: <Media omitted>
+28/01/2020, 07:39 - CXM48 Anjali: Assignment submitted
+28/01/2020, 08:33 - CXM48 Anjali: Thanks sir
+28/01/2020, 10:09 - CXM43 Bhavna Kumari: I'll join shortly
+28/01/2020, 11:05 - CXM46 Kaushal Agarwal: Who is attending today?
+28/01/2020, 12:54 - CXM46 Kaushal Agarwal: Done 👍
+28/01/2020, 13:22 - CXM43 Bhavna Kumari: On my way
+28/01/2020, 13:45 - CXM43 Bhavna Kumari: Please check your email
+28/01/2020, 14:08 - Nitish Singh: Please check your email
+28/01/2020, 14:46 - CXM46 Kaushal Agarwal: Please check your email
+28/01/2020, 16:37 - CXM43 Bhavna Kumari: Recording will be shared later
+28/01/2020, 17:06 - CXM43 Bhavna Kumari: Sounds good!
+28/01/2020, 17:12 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+28/01/2020, 19:05 - CXM43 Bhavna Kumari: On my way
+28/01/2020, 20:04 - CXM43 Bhavna Kumari: 😂😂😂
+28/01/2020, 20:34 - CXM48 Anjali: Let's connect on LinkedIn
+28/01/2020, 21:33 - CXM43 Bhavna Kumari: Assignment submitted
+28/01/2020, 21:34 - Nitish Singh: 😂😂😂
+28/01/2020, 23:24 - Nitish Singh: Can someone share the link?
+29/01/2020, 00:51 - CXM43 Bhavna Kumari: Session starts in 10 mins
+29/01/2020, 02:46 - CXM43 Bhavna Kumari: On my way
+29/01/2020, 04:39 - CXM43 Bhavna Kumari: Thanks sir
+29/01/2020, 05:16 - CXM46 Kaushal Agarwal: On my way
+29/01/2020, 06:53 - CXM43 Bhavna Kumari: Recording will be shared later
+29/01/2020, 07:15 - CXM46 Kaushal Agarwal: Thanks sir
+29/01/2020, 07:59 - CXM11 Shantanu Shubham: 😂😂😂
+29/01/2020, 08:02 - CXM11 Shantanu Shubham: I'll join shortly
+29/01/2020, 08:58 - Nitish Singh: 😂😂😂
+29/01/2020, 09:07 - CXM43 Bhavna Kumari: Done 👍
+29/01/2020, 09:25 - CXM48 Anjali: Awesome 🔥
+29/01/2020, 11:24 - CXM11 Shantanu Shubham: Awesome 🔥
+29/01/2020, 11:45 - CXM11 Shantanu Shubham: Good morning everyone 😊
+29/01/2020, 13:16 - CXM48 Anjali: Great session 👏
+29/01/2020, 14:56 - Nitish Singh: Thanks sir
+29/01/2020, 16:16 - Nitish Singh: Recording will be shared later
+29/01/2020, 17:20 - CXM46 Kaushal Agarwal: Please check your email
+29/01/2020, 18:40 - CXM48 Anjali: Let's connect on LinkedIn
+29/01/2020, 19:20 - CXM48 Anjali: Good morning everyone 😊
+29/01/2020, 21:02 - CXM43 Bhavna Kumari: Recording will be shared later
+29/01/2020, 22:32 - CXM43 Bhavna Kumari: Please check your email
+29/01/2020, 22:55 - CXM46 Kaushal Agarwal: I'll join shortly
+29/01/2020, 23:14 - CXM11 Shantanu Shubham: Sounds good!
+29/01/2020, 23:37 - CXM11 Shantanu Shubham: Recording will be shared later
+30/01/2020, 01:13 - Nitish Singh: Awesome 🔥
+30/01/2020, 02:50 - Nitish Singh: <Media omitted>
+30/01/2020, 04:47 - CXM46 Kaushal Agarwal: Done 👍
+30/01/2020, 06:33 - Nitish Singh: Can someone share the link?
+30/01/2020, 06:52 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+30/01/2020, 07:49 - CXM11 Shantanu Shubham: Sounds good!
+30/01/2020, 08:24 - Nitish Singh: Let's connect on LinkedIn
+30/01/2020, 08:39 - CXM48 Anjali: Any updates?
+30/01/2020, 09:45 - CXM46 Kaushal Agarwal: Any updates?
+30/01/2020, 10:10 - CXM11 Shantanu Shubham: Awesome 🔥
+30/01/2020, 10:30 - CXM11 Shantanu Shubham: Sounds good!
+30/01/2020, 12:28 - CXM46 Kaushal Agarwal: Done 👍
+30/01/2020, 14:09 - Nitish Singh: Thanks sir
+30/01/2020, 15:44 - CXM46 Kaushal Agarwal: Who is attending today?
+30/01/2020, 17:39 - CXM43 Bhavna Kumari: Good morning everyone 😊
+30/01/2020, 19:32 - CXM46 Kaushal Agarwal: Who is attending today?
+30/01/2020, 20:19 - Nitish Singh: <Media omitted>
+30/01/2020, 21:38 - CXM43 Bhavna Kumari: Recording will be shared later
+30/01/2020, 22:36 - CXM43 Bhavna Kumari: Please check your email
+30/01/2020, 23:50 - CXM11 Shantanu Shubham: 😂😂😂
+31/01/2020, 01:24 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+31/01/2020, 02:12 - CXM48 Anjali: Thanks sir
+31/01/2020, 02:20 - CXM43 Bhavna Kumari: Thanks sir
+31/01/2020, 03:19 - CXM48 Anjali: Good morning everyone 😊
+31/01/2020, 04:00 - CXM46 Kaushal Agarwal: 😂😂😂
+31/01/2020, 05:44 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+31/01/2020, 06:24 - CXM48 Anjali: Let's connect on LinkedIn
+31/01/2020, 07:04 - CXM11 Shantanu Shubham: Any updates?
+31/01/2020, 08:59 - CXM48 Anjali: I'll join shortly
+31/01/2020, 09:17 - CXM46 Kaushal Agarwal: Any updates?
+31/01/2020, 09:46 - CXM48 Anjali: 😂😂😂
+31/01/2020, 09:49 - CXM43 Bhavna Kumari: Good morning everyone 😊
+31/01/2020, 11:38 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+31/01/2020, 13:04 - CXM43 Bhavna Kumari: Great session 👏
+31/01/2020, 14:05 - CXM46 Kaushal Agarwal: Who is attending today?
+31/01/2020, 14:41 - CXM46 Kaushal Agarwal: On my way
+31/01/2020, 14:57 - CXM48 Anjali: Thanks sir
+31/01/2020, 15:55 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+31/01/2020, 16:58 - CXM48 Anjali: Recording will be shared later
+31/01/2020, 18:57 - CXM43 Bhavna Kumari: https://github.com/example/project
+31/01/2020, 19:38 - Nitish Singh: On my way
+31/01/2020, 20:43 - Nitish Singh: Good morning everyone 😊
+31/01/2020, 21:13 - CXM43 Bhavna Kumari: 😂😂😂
+31/01/2020, 21:51 - CXM48 Anjali: Session starts in 10 mins
+31/01/2020, 23:42 - CXM11 Shantanu Shubham: https://github.com/example/project
+01/02/2020, 00:37 - CXM11 Shantanu Shubham: Session starts in 10 mins
+01/02/2020, 01:04 - CXM48 Anjali: Assignment submitted
+01/02/2020, 02:14 - CXM46 Kaushal Agarwal: Great session 👏
+01/02/2020, 03:44 - CXM43 Bhavna Kumari: On my way
+01/02/2020, 05:21 - CXM43 Bhavna Kumari: I'll join shortly
+01/02/2020, 05:51 - CXM43 Bhavna Kumari: Thanks sir
+01/02/2020, 07:46 - CXM43 Bhavna Kumari: <Media omitted>
+01/02/2020, 09:06 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+01/02/2020, 09:07 - Nitish Singh: Thanks sir
+01/02/2020, 09:23 - CXM46 Kaushal Agarwal: Any updates?
+01/02/2020, 09:58 - Nitish Singh: Awesome 🔥
+01/02/2020, 11:31 - CXM46 Kaushal Agarwal: Who is attending today?
+01/02/2020, 13:08 - CXM11 Shantanu Shubham: On my way
+01/02/2020, 13:21 - Nitish Singh: Any updates?
+01/02/2020, 14:07 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+01/02/2020, 15:43 - CXM46 Kaushal Agarwal: Thanks sir
+01/02/2020, 17:42 - CXM46 Kaushal Agarwal: Great session 👏
+01/02/2020, 19:27 - CXM11 Shantanu Shubham: https://github.com/example/project
+01/02/2020, 20:27 - CXM43 Bhavna Kumari: Awesome 🔥
+01/02/2020, 21:43 - CXM46 Kaushal Agarwal: <Media omitted>
+01/02/2020, 21:49 - CXM48 Anjali: Let's connect on LinkedIn
+01/02/2020, 22:54 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+02/02/2020, 00:38 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+02/02/2020, 01:41 - CXM48 Anjali: I'll join shortly
+02/02/2020, 02:44 - CXM11 Shantanu Shubham: On my way
+02/02/2020, 03:32 - CXM46 Kaushal Agarwal: Who is attending today?
+02/02/2020, 05:22 - CXM48 Anjali: Great session 👏
+02/02/2020, 05:27 - CXM43 Bhavna Kumari: <Media omitted>
+02/02/2020, 07:24 - CXM43 Bhavna Kumari: Awesome 🔥
+02/02/2020, 07:45 - CXM46 Kaushal Agarwal: <Media omitted>
+02/02/2020, 08:51 - Nitish Singh: I'll join shortly
+02/02/2020, 08:59 - CXM43 Bhavna Kumari: Can someone share the link?
+02/02/2020, 09:08 - CXM48 Anjali: 😂😂😂
+02/02/2020, 10:03 - Nitish Singh: Awesome 🔥
+02/02/2020, 11:22 - CXM46 Kaushal Agarwal: Done 👍
+02/02/2020, 12:28 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+02/02/2020, 12:36 - Nitish Singh: Great session 👏
+02/02/2020, 14:11 - Nitish Singh: Awesome 🔥
+02/02/2020, 15:56 - CXM46 Kaushal Agarwal: Assignment submitted
+02/02/2020, 17:02 - CXM46 Kaushal Agarwal: Thanks sir
+02/02/2020, 17:12 - CXM11 Shantanu Shubham: Assignment submitted
+02/02/2020, 17:18 - Nitish Singh: Let's connect on LinkedIn
+02/02/2020, 19:13 - CXM43 Bhavna Kumari: Done 👍
+02/02/2020, 19:26 - CXM48 Anjali: Assignment submitted
+02/02/2020, 21:16 - CXM43 Bhavna Kumari: Can someone share the link?
+02/02/2020, 23:04 - CXM48 Anjali: 😂😂😂
+02/02/2020, 23:48 - CXM11 Shantanu Shubham: 😂😂😂
+03/02/2020, 00:45 - Nitish Singh: I'll join shortly
+03/02/2020, 01:27 - CXM43 Bhavna Kumari: https://github.com/example/project
+03/02/2020, 01:51 - CXM11 Shantanu Shubham: Good morning everyone 😊
+03/02/2020, 03:49 - CXM48 Anjali: Let's connect on LinkedIn
+03/02/2020, 04:03 - Nitish Singh: Great session 👏
+03/02/2020, 05:29 - CXM48 Anjali: On my way
+03/02/2020, 06:09 - CXM48 Anjali: Sounds good!
+03/02/2020, 06:17 - CXM48 Anjali: Session starts in 10 mins
+03/02/2020, 06:36 - CXM46 Kaushal Agarwal: Done 👍
+03/02/2020, 07:57 - CXM11 Shantanu Shubham: Please check your email
+03/02/2020, 09:28 - CXM11 Shantanu Shubham: Recording will be shared later
+03/02/2020, 11:08 - CXM46 Kaushal Agarwal: Please check your email
+03/02/2020, 11:55 - CXM43 Bhavna Kumari: Thanks sir
+03/02/2020, 12:53 - CXM48 Anjali: Let's connect on LinkedIn
+03/02/2020, 14:31 - CXM48 Anjali: Please check your email
+03/02/2020, 14:48 - CXM48 Anjali: Please check your email
+03/02/2020, 15:03 - CXM43 Bhavna Kumari: 😂😂😂
+03/02/2020, 15:50 - CXM48 Anjali: I'll join shortly
+03/02/2020, 16:18 - CXM43 Bhavna Kumari: https://github.com/example/project
+03/02/2020, 17:28 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+03/02/2020, 18:48 - CXM48 Anjali: Done 👍
+03/02/2020, 19:05 - Nitish Singh: Assignment submitted
+03/02/2020, 20:52 - CXM11 Shantanu Shubham: 😂😂😂
+03/02/2020, 22:21 - CXM48 Anjali: Who is attending today?
+03/02/2020, 22:37 - CXM11 Shantanu Shubham: Great session 👏
+03/02/2020, 23:34 - CXM48 Anjali: Good morning everyone 😊
+04/02/2020, 00:04 - CXM43 Bhavna Kumari: Can someone share the link?
+04/02/2020, 00:48 - CXM48 Anjali: 😂😂😂
+04/02/2020, 02:08 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+04/02/2020, 03:48 - CXM46 Kaushal Agarwal: Can someone share the link?
+04/02/2020, 04:05 - Nitish Singh: Great session 👏
+04/02/2020, 05:07 - CXM11 Shantanu Shubham: On my way
+04/02/2020, 05:28 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+04/02/2020, 06:26 - CXM48 Anjali: Great session 👏
+04/02/2020, 06:44 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+04/02/2020, 08:18 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+04/02/2020, 08:56 - Nitish Singh: Awesome 🔥
+04/02/2020, 09:52 - CXM43 Bhavna Kumari: Awesome 🔥
+04/02/2020, 11:45 - CXM11 Shantanu Shubham: <Media omitted>
+04/02/2020, 12:56 - CXM11 Shantanu Shubham: Session starts in 10 mins
+04/02/2020, 14:06 - Nitish Singh: Recording will be shared later
+04/02/2020, 14:43 - Nitish Singh: Assignment submitted
+04/02/2020, 16:01 - CXM48 Anjali: On my way
+04/02/2020, 17:11 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+04/02/2020, 18:27 - CXM46 Kaushal Agarwal: Assignment submitted
+04/02/2020, 18:37 - CXM48 Anjali: Assignment submitted
+04/02/2020, 18:43 - CXM46 Kaushal Agarwal: Sounds good!
+04/02/2020, 20:02 - CXM11 Shantanu Shubham: 😂😂😂
+04/02/2020, 21:15 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+04/02/2020, 22:28 - CXM48 Anjali: Who is attending today?
+04/02/2020, 23:01 - CXM48 Anjali: Thanks sir
+04/02/2020, 23:29 - CXM48 Anjali: Who is attending today?
+05/02/2020, 01:28 - CXM43 Bhavna Kumari: Can someone share the link?
+05/02/2020, 02:38 - CXM11 Shantanu Shubham: Recording will be shared later
+05/02/2020, 04:32 - CXM43 Bhavna Kumari: Awesome 🔥
+05/02/2020, 06:14 - CXM43 Bhavna Kumari: Awesome 🔥
+05/02/2020, 07:05 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+05/02/2020, 07:22 - CXM43 Bhavna Kumari: I'll join shortly
+05/02/2020, 08:19 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+05/02/2020, 08:38 - CXM48 Anjali: I'll join shortly
+05/02/2020, 09:37 - CXM11 Shantanu Shubham: Session starts in 10 mins
+05/02/2020, 11:02 - CXM11 Shantanu Shubham: Sounds good!
+05/02/2020, 12:01 - CXM43 Bhavna Kumari: Assignment submitted
+05/02/2020, 12:59 - Nitish Singh: Great session 👏
+05/02/2020, 13:40 - CXM11 Shantanu Shubham: Done 👍
+05/02/2020, 13:58 - CXM11 Shantanu Shubham: Assignment submitted
+05/02/2020, 14:23 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+05/02/2020, 14:35 - CXM48 Anjali: Sounds good!
+05/02/2020, 15:37 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+05/02/2020, 15:59 - Nitish Singh: Assignment submitted
+05/02/2020, 17:01 - Nitish Singh: Session starts in 10 mins
+05/02/2020, 17:33 - Nitish Singh: Assignment submitted
+05/02/2020, 19:21 - CXM11 Shantanu Shubham: Session starts in 10 mins
+05/02/2020, 20:35 - CXM46 Kaushal Agarwal: Recording will be shared later
+05/02/2020, 22:24 - CXM43 Bhavna Kumari: On my way
+06/02/2020, 00:00 - CXM46 Kaushal Agarwal: Any updates?
+06/02/2020, 00:03 - CXM46 Kaushal Agarwal: Please check your email
+06/02/2020, 01:25 - CXM43 Bhavna Kumari: https://github.com/example/project
+06/02/2020, 02:37 - CXM46 Kaushal Agarwal: https://github.com/example/project
+06/02/2020, 02:45 - Nitish Singh: Thanks sir
+06/02/2020, 03:29 - CXM11 Shantanu Shubham: Assignment submitted
+06/02/2020, 03:51 - CXM48 Anjali: https://github.com/example/project
+06/02/2020, 05:21 - Nitish Singh: Done 👍
+06/02/2020, 06:23 - CXM11 Shantanu Shubham: Recording will be shared later
+06/02/2020, 08:11 - Nitish Singh: Let's connect on LinkedIn
+06/02/2020, 09:52 - CXM48 Anjali: Sounds good!
+06/02/2020, 10:19 - CXM11 Shantanu Shubham: Great session 👏
+06/02/2020, 10:22 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+06/02/2020, 10:40 - CXM43 Bhavna Kumari: 😂😂😂
+06/02/2020, 11:31 - CXM11 Shantanu Shubham: Awesome 🔥
+06/02/2020, 11:43 - CXM11 Shantanu Shubham: Any updates?
+06/02/2020, 12:08 - CXM11 Shantanu Shubham: Any updates?
+06/02/2020, 12:19 - CXM48 Anjali: Can someone share the link?
+06/02/2020, 12:28 - CXM46 Kaushal Agarwal: Who is attending today?
+06/02/2020, 12:35 - CXM48 Anjali: Please check your email
+06/02/2020, 14:31 - CXM11 Shantanu Shubham: Good morning everyone 😊
+06/02/2020, 16:00 - Nitish Singh: Done 👍
+06/02/2020, 17:07 - CXM46 Kaushal Agarwal: Done 👍
+06/02/2020, 17:59 - CXM48 Anjali: Any updates?
+06/02/2020, 18:37 - CXM11 Shantanu Shubham: Recording will be shared later
+06/02/2020, 20:26 - CXM43 Bhavna Kumari: Can someone share the link?
+06/02/2020, 20:29 - CXM11 Shantanu Shubham: Please check your email
+06/02/2020, 22:06 - CXM48 Anjali: 😂😂😂
+06/02/2020, 22:57 - Nitish Singh: On my way
+07/02/2020, 00:07 - Nitish Singh: Great session 👏
+07/02/2020, 01:48 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+07/02/2020, 01:50 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+07/02/2020, 02:39 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+07/02/2020, 04:20 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+07/02/2020, 04:34 - CXM48 Anjali: Assignment submitted
+07/02/2020, 06:19 - Nitish Singh: Can someone share the link?
+07/02/2020, 08:07 - Nitish Singh: Please check your email
+07/02/2020, 08:14 - CXM46 Kaushal Agarwal: Great session 👏
+07/02/2020, 08:50 - CXM48 Anjali: Any updates?
+07/02/2020, 09:02 - CXM11 Shantanu Shubham: 😂😂😂
+07/02/2020, 10:20 - Nitish Singh: Good morning everyone 😊
+07/02/2020, 11:58 - CXM48 Anjali: Who is attending today?
+07/02/2020, 13:46 - Nitish Singh: I'll join shortly
+07/02/2020, 14:55 - CXM46 Kaushal Agarwal: Please check your email
+07/02/2020, 16:44 - Nitish Singh: 😂😂😂
+07/02/2020, 16:46 - CXM43 Bhavna Kumari: Please check your email
+07/02/2020, 18:30 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+07/02/2020, 20:24 - CXM46 Kaushal Agarwal: Awesome 🔥
+07/02/2020, 21:52 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+07/02/2020, 22:30 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+08/02/2020, 00:03 - CXM11 Shantanu Shubham: Please check your email
+08/02/2020, 01:53 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+08/02/2020, 02:06 - CXM43 Bhavna Kumari: Awesome 🔥
+08/02/2020, 03:10 - CXM43 Bhavna Kumari: Awesome 🔥
+08/02/2020, 03:52 - CXM46 Kaushal Agarwal: Done 👍
+08/02/2020, 05:04 - CXM43 Bhavna Kumari: Who is attending today?
+08/02/2020, 05:40 - CXM11 Shantanu Shubham: Any updates?
+08/02/2020, 07:29 - Nitish Singh: Done 👍
+08/02/2020, 09:01 - CXM43 Bhavna Kumari: Session starts in 10 mins
+08/02/2020, 09:39 - CXM48 Anjali: Who is attending today?
+08/02/2020, 10:52 - CXM48 Anjali: Sounds good!
+08/02/2020, 11:28 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+08/02/2020, 12:07 - Nitish Singh: Awesome 🔥
+08/02/2020, 13:38 - CXM48 Anjali: 😂😂😂
+08/02/2020, 14:20 - CXM48 Anjali: Sounds good!
+08/02/2020, 14:37 - CXM11 Shantanu Shubham: Sounds good!
+08/02/2020, 15:12 - CXM43 Bhavna Kumari: I'll join shortly
+08/02/2020, 15:49 - CXM11 Shantanu Shubham: Can someone share the link?
+08/02/2020, 17:33 - CXM43 Bhavna Kumari: Assignment submitted
+08/02/2020, 19:25 - Nitish Singh: Thanks sir
+08/02/2020, 21:19 - Nitish Singh: 😂😂😂
+08/02/2020, 22:50 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+08/02/2020, 23:13 - Nitish Singh: I'll join shortly
+09/02/2020, 01:11 - CXM48 Anjali: Who is attending today?
+09/02/2020, 02:09 - CXM11 Shantanu Shubham: Great session 👏
+09/02/2020, 03:50 - CXM46 Kaushal Agarwal: Recording will be shared later
+09/02/2020, 05:08 - CXM11 Shantanu Shubham: Good morning everyone 😊
+09/02/2020, 06:18 - CXM43 Bhavna Kumari: <Media omitted>
+09/02/2020, 06:31 - CXM48 Anjali: Who is attending today?
+09/02/2020, 07:08 - CXM43 Bhavna Kumari: On my way
+09/02/2020, 07:27 - CXM11 Shantanu Shubham: On my way
+09/02/2020, 07:42 - Nitish Singh: 😂😂😂
+09/02/2020, 09:09 - Nitish Singh: Recording will be shared later
+09/02/2020, 09:32 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+09/02/2020, 11:09 - CXM43 Bhavna Kumari: Please check your email
+09/02/2020, 11:20 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+09/02/2020, 12:05 - CXM43 Bhavna Kumari: Great session 👏
+09/02/2020, 13:18 - CXM46 Kaushal Agarwal: Thanks sir
+09/02/2020, 13:26 - Nitish Singh: On my way
+09/02/2020, 13:54 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+09/02/2020, 14:21 - CXM11 Shantanu Shubham: Awesome 🔥
+09/02/2020, 15:56 - Nitish Singh: Please check your email
+09/02/2020, 17:03 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+09/02/2020, 18:31 - CXM11 Shantanu Shubham: Please check your email
+09/02/2020, 19:10 - CXM11 Shantanu Shubham: <Media omitted>
+09/02/2020, 19:35 - CXM48 Anjali: Sounds good!
+09/02/2020, 20:28 - CXM48 Anjali: Let's connect on LinkedIn
+09/02/2020, 20:41 - CXM11 Shantanu Shubham: 😂😂😂
+09/02/2020, 22:13 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+09/02/2020, 22:38 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+09/02/2020, 23:23 - CXM46 Kaushal Agarwal: Can someone share the link?
+09/02/2020, 23:48 - Nitish Singh: Who is attending today?
+10/02/2020, 01:14 - CXM43 Bhavna Kumari: Please check your email
+10/02/2020, 02:14 - Nitish Singh: Can someone share the link?
+10/02/2020, 02:43 - CXM11 Shantanu Shubham: Session starts in 10 mins
+10/02/2020, 03:03 - CXM11 Shantanu Shubham: Awesome 🔥
+10/02/2020, 04:30 - CXM46 Kaushal Agarwal: Assignment submitted
+10/02/2020, 05:48 - Nitish Singh: Good morning everyone 😊
+10/02/2020, 07:39 - Nitish Singh: Let's connect on LinkedIn
+10/02/2020, 07:42 - Nitish Singh: Good morning everyone 😊
+10/02/2020, 08:01 - CXM11 Shantanu Shubham: Any updates?
+10/02/2020, 09:53 - Nitish Singh: Who is attending today?
+10/02/2020, 10:07 - Nitish Singh: On my way
+10/02/2020, 10:35 - Nitish Singh: Great session 👏
+10/02/2020, 12:18 - CXM48 Anjali: Who is attending today?
+10/02/2020, 13:34 - CXM11 Shantanu Shubham: Who is attending today?
+10/02/2020, 14:04 - CXM43 Bhavna Kumari: I'll join shortly
+10/02/2020, 15:46 - CXM43 Bhavna Kumari: Any updates?
+10/02/2020, 16:18 - Nitish Singh: 😂😂😂
+10/02/2020, 16:23 - Nitish Singh: Assignment submitted
+10/02/2020, 16:39 - Nitish Singh: Thanks sir
+10/02/2020, 17:48 - CXM46 Kaushal Agarwal: Assignment submitted
+10/02/2020, 19:03 - Nitish Singh: Can someone share the link?
+10/02/2020, 20:20 - CXM11 Shantanu Shubham: I'll join shortly
+10/02/2020, 20:59 - Nitish Singh: Let's connect on LinkedIn
+10/02/2020, 21:16 - CXM11 Shantanu Shubham: I'll join shortly
+10/02/2020, 22:15 - CXM43 Bhavna Kumari: On my way
+10/02/2020, 22:23 - CXM43 Bhavna Kumari: <Media omitted>
+10/02/2020, 22:48 - CXM43 Bhavna Kumari: Can someone share the link?
+10/02/2020, 23:35 - CXM11 Shantanu Shubham: 😂😂😂
+11/02/2020, 01:12 - Nitish Singh: On my way
+11/02/2020, 03:08 - CXM46 Kaushal Agarwal: Sounds good!
+11/02/2020, 03:15 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+11/02/2020, 03:30 - Nitish Singh: Please check your email
+11/02/2020, 04:25 - CXM11 Shantanu Shubham: I'll join shortly
+11/02/2020, 04:40 - CXM11 Shantanu Shubham: <Media omitted>
+11/02/2020, 05:32 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+11/02/2020, 05:36 - CXM43 Bhavna Kumari: Can someone share the link?
+11/02/2020, 07:16 - CXM48 Anjali: 😂😂😂
+11/02/2020, 09:14 - CXM43 Bhavna Kumari: Any updates?
+11/02/2020, 10:32 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+11/02/2020, 11:11 - CXM11 Shantanu Shubham: Assignment submitted
+11/02/2020, 12:37 - CXM43 Bhavna Kumari: Good morning everyone 😊
+11/02/2020, 13:48 - Nitish Singh: Sounds good!
+11/02/2020, 15:21 - Nitish Singh: Who is attending today?
+11/02/2020, 17:08 - CXM48 Anjali: 😂😂😂
+11/02/2020, 17:38 - CXM11 Shantanu Shubham: Assignment submitted
+11/02/2020, 18:37 - Nitish Singh: https://github.com/example/project
+11/02/2020, 18:46 - CXM43 Bhavna Kumari: Assignment submitted
+11/02/2020, 19:20 - CXM43 Bhavna Kumari: Assignment submitted
+11/02/2020, 21:06 - CXM46 Kaushal Agarwal: 😂😂😂
+11/02/2020, 21:16 - CXM48 Anjali: Assignment submitted
+11/02/2020, 22:51 - Nitish Singh: Let's connect on LinkedIn
+11/02/2020, 23:00 - Nitish Singh: https://github.com/example/project
+11/02/2020, 23:25 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+12/02/2020, 00:53 - CXM46 Kaushal Agarwal: Great session 👏
+12/02/2020, 02:20 - CXM48 Anjali: I'll join shortly
+12/02/2020, 03:53 - CXM46 Kaushal Agarwal: I'll join shortly
+12/02/2020, 05:23 - CXM11 Shantanu Shubham: On my way
+12/02/2020, 05:35 - CXM46 Kaushal Agarwal: Recording will be shared later
+12/02/2020, 07:03 - CXM11 Shantanu Shubham: On my way
+12/02/2020, 07:16 - CXM43 Bhavna Kumari: Good morning everyone 😊
+12/02/2020, 08:45 - Nitish Singh: Thanks sir
+12/02/2020, 09:32 - CXM43 Bhavna Kumari: Session starts in 10 mins
+12/02/2020, 10:42 - CXM43 Bhavna Kumari: Awesome 🔥
+12/02/2020, 11:17 - CXM43 Bhavna Kumari: <Media omitted>
+12/02/2020, 13:07 - CXM11 Shantanu Shubham: <Media omitted>
+12/02/2020, 13:55 - CXM46 Kaushal Agarwal: 😂😂😂
+12/02/2020, 15:01 - Nitish Singh: https://github.com/example/project
+12/02/2020, 15:34 - CXM11 Shantanu Shubham: Recording will be shared later
+12/02/2020, 16:39 - CXM46 Kaushal Agarwal: On my way
+12/02/2020, 18:12 - CXM11 Shantanu Shubham: Done 👍
+12/02/2020, 19:40 - CXM46 Kaushal Agarwal: Who is attending today?
+12/02/2020, 21:23 - Nitish Singh: Can someone share the link?
+12/02/2020, 22:50 - CXM46 Kaushal Agarwal: I'll join shortly
+13/02/2020, 00:10 - CXM43 Bhavna Kumari: Please check your email
+13/02/2020, 00:20 - Nitish Singh: Can someone share the link?
+13/02/2020, 01:51 - Nitish Singh: On my way
+13/02/2020, 03:20 - CXM43 Bhavna Kumari: Good morning everyone 😊
+13/02/2020, 03:59 - CXM43 Bhavna Kumari: https://github.com/example/project
+13/02/2020, 05:29 - CXM11 Shantanu Shubham: <Media omitted>
+13/02/2020, 06:09 - CXM11 Shantanu Shubham: Good morning everyone 😊
+13/02/2020, 07:05 - CXM11 Shantanu Shubham: 😂😂😂
+13/02/2020, 07:44 - CXM48 Anjali: Sounds good!
+13/02/2020, 09:07 - CXM46 Kaushal Agarwal: Assignment submitted
+13/02/2020, 09:45 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+13/02/2020, 10:48 - CXM11 Shantanu Shubham: Assignment submitted
+13/02/2020, 12:02 - Nitish Singh: https://github.com/example/project
+13/02/2020, 13:17 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+13/02/2020, 13:58 - CXM11 Shantanu Shubham: Recording will be shared later
+13/02/2020, 14:36 - CXM46 Kaushal Agarwal: Great session 👏
+13/02/2020, 15:15 - CXM48 Anjali: Good morning everyone 😊
+13/02/2020, 16:40 - CXM11 Shantanu Shubham: On my way
+13/02/2020, 18:26 - CXM43 Bhavna Kumari: https://github.com/example/project
+13/02/2020, 18:56 - CXM48 Anjali: Good morning everyone 😊
+13/02/2020, 19:49 - CXM43 Bhavna Kumari: 😂😂😂
+13/02/2020, 20:17 - CXM46 Kaushal Agarwal: Sounds good!
+13/02/2020, 21:46 - Nitish Singh: https://github.com/example/project
+13/02/2020, 22:45 - CXM11 Shantanu Shubham: 😂😂😂
+13/02/2020, 23:54 - CXM43 Bhavna Kumari: Thanks sir
+14/02/2020, 01:16 - CXM43 Bhavna Kumari: Who is attending today?
+14/02/2020, 02:36 - CXM43 Bhavna Kumari: Session starts in 10 mins
+14/02/2020, 02:40 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+14/02/2020, 04:27 - CXM46 Kaushal Agarwal: Thanks sir
+14/02/2020, 05:00 - CXM11 Shantanu Shubham: https://github.com/example/project
+14/02/2020, 06:24 - CXM48 Anjali: Thanks sir
+14/02/2020, 06:42 - CXM11 Shantanu Shubham: Thanks sir
+14/02/2020, 07:30 - CXM48 Anjali: Let's connect on LinkedIn
+14/02/2020, 07:44 - CXM43 Bhavna Kumari: https://github.com/example/project
+14/02/2020, 08:05 - CXM46 Kaushal Agarwal: Sounds good!
+14/02/2020, 09:31 - CXM11 Shantanu Shubham: https://github.com/example/project
+14/02/2020, 10:49 - CXM11 Shantanu Shubham: Can someone share the link?
+14/02/2020, 12:30 - CXM11 Shantanu Shubham: On my way
+14/02/2020, 13:17 - Nitish Singh: https://github.com/example/project
+14/02/2020, 13:20 - CXM48 Anjali: Recording will be shared later
+14/02/2020, 13:37 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+14/02/2020, 14:04 - CXM11 Shantanu Shubham: Who is attending today?
+14/02/2020, 15:46 - CXM48 Anjali: Please check your email
+14/02/2020, 15:47 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+14/02/2020, 15:50 - CXM43 Bhavna Kumari: Assignment submitted
+14/02/2020, 17:17 - CXM43 Bhavna Kumari: Good morning everyone 😊
+14/02/2020, 17:45 - CXM43 Bhavna Kumari: Please check your email
+14/02/2020, 18:34 - CXM11 Shantanu Shubham: Awesome 🔥
+14/02/2020, 19:18 - CXM48 Anjali: Please check your email
+14/02/2020, 19:26 - CXM48 Anjali: Session starts in 10 mins
+14/02/2020, 21:09 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+14/02/2020, 21:32 - Nitish Singh: Done 👍
+14/02/2020, 22:43 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+15/02/2020, 00:07 - CXM43 Bhavna Kumari: Please check your email
+15/02/2020, 00:52 - Nitish Singh: On my way
+15/02/2020, 02:26 - CXM43 Bhavna Kumari: Sounds good!
+15/02/2020, 03:22 - Nitish Singh: Awesome 🔥
+15/02/2020, 04:11 - Nitish Singh: 😂😂😂
+15/02/2020, 05:49 - CXM46 Kaushal Agarwal: On my way
+15/02/2020, 07:45 - CXM43 Bhavna Kumari: https://github.com/example/project
+15/02/2020, 08:44 - CXM48 Anjali: Awesome 🔥
+15/02/2020, 09:28 - CXM43 Bhavna Kumari: 😂😂😂
+15/02/2020, 10:36 - Nitish Singh: Can someone share the link?
+15/02/2020, 12:34 - CXM43 Bhavna Kumari: Can someone share the link?
+15/02/2020, 14:17 - CXM11 Shantanu Shubham: Done 👍
+15/02/2020, 15:55 - CXM48 Anjali: Sounds good!
+15/02/2020, 17:22 - CXM46 Kaushal Agarwal: https://github.com/example/project
+15/02/2020, 17:25 - CXM48 Anjali: Can someone share the link?
+15/02/2020, 18:48 - CXM46 Kaushal Agarwal: Please check your email
+15/02/2020, 19:04 - CXM48 Anjali: Good morning everyone 😊
+15/02/2020, 19:44 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+15/02/2020, 20:37 - CXM43 Bhavna Kumari: Thanks sir
+15/02/2020, 22:30 - CXM43 Bhavna Kumari: Good morning everyone 😊
+16/02/2020, 00:27 - CXM11 Shantanu Shubham: <Media omitted>
+16/02/2020, 02:23 - CXM46 Kaushal Agarwal: Recording will be shared later
+16/02/2020, 02:56 - CXM43 Bhavna Kumari: Good morning everyone 😊
+16/02/2020, 04:29 - CXM46 Kaushal Agarwal: Assignment submitted
+16/02/2020, 04:46 - CXM48 Anjali: Done 👍
+16/02/2020, 05:43 - CXM43 Bhavna Kumari: Done 👍
+16/02/2020, 06:15 - CXM43 Bhavna Kumari: Recording will be shared later
+16/02/2020, 08:11 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+16/02/2020, 09:07 - CXM48 Anjali: Done 👍
+16/02/2020, 09:35 - Nitish Singh: Session starts in 10 mins
+16/02/2020, 11:06 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+16/02/2020, 12:15 - CXM43 Bhavna Kumari: Thanks sir
+16/02/2020, 13:58 - CXM11 Shantanu Shubham: Sounds good!
+16/02/2020, 14:51 - CXM43 Bhavna Kumari: On my way
+16/02/2020, 15:07 - CXM48 Anjali: Done 👍
+16/02/2020, 15:46 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+16/02/2020, 17:08 - CXM43 Bhavna Kumari: 😂😂😂
+16/02/2020, 18:01 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+16/02/2020, 19:27 - Nitish Singh: Please check your email
+16/02/2020, 20:20 - Nitish Singh: Sounds good!
+16/02/2020, 21:39 - CXM48 Anjali: https://github.com/example/project
+16/02/2020, 23:20 - CXM46 Kaushal Agarwal: Can someone share the link?
+16/02/2020, 23:49 - CXM48 Anjali: On my way
+17/02/2020, 00:07 - Nitish Singh: <Media omitted>
+17/02/2020, 00:28 - CXM11 Shantanu Shubham: I'll join shortly
+17/02/2020, 00:40 - Nitish Singh: Please check your email
+17/02/2020, 02:30 - CXM46 Kaushal Agarwal: Thanks sir
+17/02/2020, 03:48 - CXM11 Shantanu Shubham: Session starts in 10 mins
+17/02/2020, 04:22 - Nitish Singh: Session starts in 10 mins
+17/02/2020, 06:16 - Nitish Singh: On my way
+17/02/2020, 07:49 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+17/02/2020, 09:13 - Nitish Singh: On my way
+17/02/2020, 09:42 - Nitish Singh: Let's connect on LinkedIn
+17/02/2020, 10:10 - CXM48 Anjali: 😂😂😂
+17/02/2020, 10:30 - CXM48 Anjali: Assignment submitted
+17/02/2020, 12:14 - CXM43 Bhavna Kumari: Any updates?
+17/02/2020, 13:35 - CXM48 Anjali: Awesome 🔥
+17/02/2020, 15:02 - CXM48 Anjali: Thanks sir
+17/02/2020, 16:08 - CXM11 Shantanu Shubham: Good morning everyone 😊
+17/02/2020, 16:38 - CXM43 Bhavna Kumari: Great session 👏
+17/02/2020, 16:47 - Nitish Singh: <Media omitted>
+17/02/2020, 17:43 - CXM43 Bhavna Kumari: Awesome 🔥
+17/02/2020, 18:03 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+17/02/2020, 18:21 - Nitish Singh: Let's connect on LinkedIn
+17/02/2020, 19:19 - CXM11 Shantanu Shubham: Who is attending today?
+17/02/2020, 19:49 - CXM46 Kaushal Agarwal: Great session 👏
+17/02/2020, 21:34 - CXM43 Bhavna Kumari: Sounds good!
+17/02/2020, 23:30 - CXM43 Bhavna Kumari: Great session 👏
+18/02/2020, 00:59 - CXM43 Bhavna Kumari: Good morning everyone 😊
+18/02/2020, 02:15 - CXM48 Anjali: Great session 👏
+18/02/2020, 04:09 - CXM43 Bhavna Kumari: Sounds good!
+18/02/2020, 04:21 - CXM43 Bhavna Kumari: Please check your email
+18/02/2020, 04:48 - CXM11 Shantanu Shubham: Awesome 🔥
+18/02/2020, 05:26 - CXM46 Kaushal Agarwal: Done 👍
+18/02/2020, 06:05 - CXM11 Shantanu Shubham: Who is attending today?
+18/02/2020, 06:34 - CXM11 Shantanu Shubham: https://github.com/example/project
+18/02/2020, 07:51 - CXM46 Kaushal Agarwal: Sounds good!
+18/02/2020, 08:00 - CXM43 Bhavna Kumari: Assignment submitted
+18/02/2020, 09:58 - CXM11 Shantanu Shubham: Assignment submitted
+18/02/2020, 11:28 - CXM11 Shantanu Shubham: Who is attending today?
+18/02/2020, 11:46 - CXM11 Shantanu Shubham: Who is attending today?
+18/02/2020, 12:57 - CXM43 Bhavna Kumari: Good morning everyone 😊
+18/02/2020, 14:28 - CXM48 Anjali: Done 👍
+18/02/2020, 15:46 - CXM11 Shantanu Shubham: On my way
+18/02/2020, 17:32 - CXM43 Bhavna Kumari: Thanks sir
+18/02/2020, 17:59 - CXM46 Kaushal Agarwal: Sounds good!
+18/02/2020, 19:41 - CXM11 Shantanu Shubham: Sounds good!
+18/02/2020, 19:57 - CXM11 Shantanu Shubham: Great session 👏
+18/02/2020, 21:11 - CXM46 Kaushal Agarwal: Who is attending today?
+18/02/2020, 21:33 - CXM48 Anjali: Great session 👏
+18/02/2020, 22:27 - CXM46 Kaushal Agarwal: Sounds good!
+18/02/2020, 23:31 - Nitish Singh: Let's connect on LinkedIn
+18/02/2020, 23:45 - CXM46 Kaushal Agarwal: Who is attending today?
+19/02/2020, 01:06 - Nitish Singh: Please check your email
+19/02/2020, 02:29 - CXM46 Kaushal Agarwal: Awesome 🔥
+19/02/2020, 02:40 - CXM11 Shantanu Shubham: Who is attending today?
+19/02/2020, 04:17 - CXM11 Shantanu Shubham: Done 👍
+19/02/2020, 06:05 - CXM43 Bhavna Kumari: Please check your email
+19/02/2020, 07:34 - Nitish Singh: Who is attending today?
+19/02/2020, 08:00 - CXM11 Shantanu Shubham: Assignment submitted
+19/02/2020, 09:32 - Nitish Singh: Good morning everyone 😊
+19/02/2020, 11:06 - CXM46 Kaushal Agarwal: Sounds good!
+19/02/2020, 11:14 - CXM46 Kaushal Agarwal: <Media omitted>
+19/02/2020, 11:51 - CXM48 Anjali: Great session 👏
+19/02/2020, 12:25 - Nitish Singh: Any updates?
+19/02/2020, 13:08 - CXM48 Anjali: Sounds good!
+19/02/2020, 14:38 - CXM46 Kaushal Agarwal: 😂😂😂
+19/02/2020, 15:29 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+19/02/2020, 17:22 - CXM11 Shantanu Shubham: I'll join shortly
+19/02/2020, 17:34 - CXM43 Bhavna Kumari: Awesome 🔥
+19/02/2020, 17:49 - CXM43 Bhavna Kumari: 😂😂😂
+19/02/2020, 18:30 - CXM43 Bhavna Kumari: Recording will be shared later
+19/02/2020, 20:00 - CXM11 Shantanu Shubham: Can someone share the link?
+19/02/2020, 20:16 - CXM43 Bhavna Kumari: Can someone share the link?
+19/02/2020, 20:57 - CXM48 Anjali: Session starts in 10 mins
+19/02/2020, 21:54 - CXM48 Anjali: 😂😂😂
+19/02/2020, 23:03 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+19/02/2020, 23:58 - Nitish Singh: Awesome 🔥
+20/02/2020, 00:36 - CXM46 Kaushal Agarwal: Recording will be shared later
+20/02/2020, 02:21 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+20/02/2020, 02:34 - Nitish Singh: Can someone share the link?
+20/02/2020, 03:14 - CXM43 Bhavna Kumari: Done 👍
+20/02/2020, 04:24 - Nitish Singh: Thanks sir
+20/02/2020, 04:44 - CXM11 Shantanu Shubham: https://github.com/example/project
+20/02/2020, 06:19 - Nitish Singh: Any updates?
+20/02/2020, 06:54 - CXM11 Shantanu Shubham: Who is attending today?
+20/02/2020, 08:30 - CXM11 Shantanu Shubham: Great session 👏
+20/02/2020, 09:40 - CXM11 Shantanu Shubham: Great session 👏
+20/02/2020, 10:53 - CXM43 Bhavna Kumari: <Media omitted>
+20/02/2020, 11:15 - CXM46 Kaushal Agarwal: I'll join shortly
+20/02/2020, 12:29 - CXM48 Anjali: 😂😂😂
+20/02/2020, 12:57 - Nitish Singh: Recording will be shared later
+20/02/2020, 13:32 - CXM11 Shantanu Shubham: I'll join shortly
+20/02/2020, 14:14 - CXM48 Anjali: Great session 👏
+20/02/2020, 15:07 - CXM43 Bhavna Kumari: Assignment submitted
+20/02/2020, 15:35 - CXM11 Shantanu Shubham: <Media omitted>
+20/02/2020, 15:54 - CXM48 Anjali: Thanks sir
+20/02/2020, 16:25 - CXM46 Kaushal Agarwal: Any updates?
+20/02/2020, 18:12 - CXM46 Kaushal Agarwal: <Media omitted>
+20/02/2020, 19:53 - Nitish Singh: https://github.com/example/project
+20/02/2020, 20:51 - Nitish Singh: Please check your email
+20/02/2020, 22:03 - CXM43 Bhavna Kumari: On my way
+20/02/2020, 23:15 - CXM46 Kaushal Agarwal: Sounds good!
+20/02/2020, 23:48 - CXM43 Bhavna Kumari: Sounds good!
+21/02/2020, 00:23 - CXM48 Anjali: Great session 👏
+21/02/2020, 00:47 - Nitish Singh: <Media omitted>
+21/02/2020, 02:37 - CXM46 Kaushal Agarwal: Please check your email
+21/02/2020, 03:33 - CXM43 Bhavna Kumari: Sounds good!
+21/02/2020, 04:41 - CXM11 Shantanu Shubham: Who is attending today?
+21/02/2020, 05:49 - CXM48 Anjali: Any updates?
+21/02/2020, 06:12 - CXM48 Anjali: Session starts in 10 mins
+21/02/2020, 07:06 - CXM11 Shantanu Shubham: Please check your email
+21/02/2020, 08:45 - CXM46 Kaushal Agarwal: Awesome 🔥
+21/02/2020, 10:13 - CXM43 Bhavna Kumari: https://github.com/example/project
+21/02/2020, 11:55 - CXM48 Anjali: Please check your email
+21/02/2020, 13:27 - CXM43 Bhavna Kumari: <Media omitted>
+21/02/2020, 15:24 - CXM43 Bhavna Kumari: 😂😂😂
+21/02/2020, 16:42 - Nitish Singh: 😂😂😂
+21/02/2020, 16:49 - CXM48 Anjali: https://github.com/example/project
+21/02/2020, 17:14 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+21/02/2020, 18:58 - CXM46 Kaushal Agarwal: https://github.com/example/project
+21/02/2020, 20:53 - Nitish Singh: Can someone share the link?
+21/02/2020, 21:48 - CXM43 Bhavna Kumari: On my way
+21/02/2020, 22:13 - CXM43 Bhavna Kumari: Good morning everyone 😊
+21/02/2020, 23:32 - CXM11 Shantanu Shubham: Done 👍
+22/02/2020, 00:40 - CXM48 Anjali: <Media omitted>
+22/02/2020, 02:06 - CXM11 Shantanu Shubham: Session starts in 10 mins
+22/02/2020, 03:01 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+22/02/2020, 03:43 - CXM48 Anjali: Who is attending today?
+22/02/2020, 04:22 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+22/02/2020, 05:31 - CXM48 Anjali: 😂😂😂
+22/02/2020, 05:57 - CXM11 Shantanu Shubham: Done 👍
+22/02/2020, 07:03 - CXM46 Kaushal Agarwal: https://github.com/example/project
+22/02/2020, 08:53 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+22/02/2020, 09:33 - Nitish Singh: Assignment submitted
+22/02/2020, 11:30 - Nitish Singh: Please check your email
+22/02/2020, 12:10 - CXM43 Bhavna Kumari: Recording will be shared later
+22/02/2020, 12:53 - Nitish Singh: Sounds good!
+22/02/2020, 14:16 - CXM43 Bhavna Kumari: On my way
+22/02/2020, 15:15 - Nitish Singh: Can someone share the link?
+22/02/2020, 16:25 - Nitish Singh: https://github.com/example/project
+22/02/2020, 17:07 - Nitish Singh: Who is attending today?
+22/02/2020, 17:39 - CXM48 Anjali: Session starts in 10 mins
+22/02/2020, 18:37 - CXM46 Kaushal Agarwal: Great session 👏
+22/02/2020, 19:36 - CXM48 Anjali: Any updates?
+22/02/2020, 20:28 - CXM46 Kaushal Agarwal: Awesome 🔥
+22/02/2020, 21:50 - CXM43 Bhavna Kumari: Who is attending today?
+22/02/2020, 23:19 - CXM48 Anjali: Session starts in 10 mins
+23/02/2020, 01:00 - CXM46 Kaushal Agarwal: Recording will be shared later
+23/02/2020, 02:49 - CXM48 Anjali: Please check your email
+23/02/2020, 03:29 - CXM46 Kaushal Agarwal: Can someone share the link?
+23/02/2020, 04:19 - CXM43 Bhavna Kumari: Can someone share the link?
+23/02/2020, 05:20 - CXM48 Anjali: Great session 👏
+23/02/2020, 06:39 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+23/02/2020, 08:05 - Nitish Singh: Recording will be shared later
+23/02/2020, 09:15 - CXM46 Kaushal Agarwal: Recording will be shared later
+23/02/2020, 09:25 - CXM48 Anjali: Thanks sir
+23/02/2020, 11:19 - Nitish Singh: Can someone share the link?
+23/02/2020, 12:50 - Nitish Singh: Sounds good!
+23/02/2020, 12:54 - Nitish Singh: On my way
+23/02/2020, 13:15 - Nitish Singh: I'll join shortly
+23/02/2020, 13:27 - CXM11 Shantanu Shubham: <Media omitted>
+23/02/2020, 14:26 - CXM48 Anjali: Let's connect on LinkedIn
+23/02/2020, 16:06 - CXM46 Kaushal Agarwal: Thanks sir
+23/02/2020, 17:50 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+23/02/2020, 18:52 - CXM43 Bhavna Kumari: Thanks sir
+23/02/2020, 19:28 - CXM46 Kaushal Agarwal: Thanks sir
+23/02/2020, 21:24 - Nitish Singh: Sounds good!
+23/02/2020, 22:36 - CXM11 Shantanu Shubham: Assignment submitted
+23/02/2020, 23:23 - CXM46 Kaushal Agarwal: Can someone share the link?
+23/02/2020, 23:46 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+23/02/2020, 23:59 - CXM46 Kaushal Agarwal: Sounds good!
+24/02/2020, 00:38 - CXM46 Kaushal Agarwal: Great session 👏
+24/02/2020, 01:53 - CXM11 Shantanu Shubham: Can someone share the link?
+24/02/2020, 02:28 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+24/02/2020, 04:18 - CXM43 Bhavna Kumari: On my way
+24/02/2020, 05:55 - CXM46 Kaushal Agarwal: Can someone share the link?
+24/02/2020, 07:38 - Nitish Singh: <Media omitted>
+24/02/2020, 08:50 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+24/02/2020, 10:03 - CXM46 Kaushal Agarwal: Recording will be shared later
+24/02/2020, 11:17 - CXM11 Shantanu Shubham: On my way
+24/02/2020, 11:52 - CXM46 Kaushal Agarwal: Who is attending today?
+24/02/2020, 13:41 - Nitish Singh: Great session 👏
+24/02/2020, 15:02 - CXM11 Shantanu Shubham: I'll join shortly
+24/02/2020, 17:02 - CXM11 Shantanu Shubham: Sounds good!
+24/02/2020, 18:03 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+24/02/2020, 19:55 - CXM43 Bhavna Kumari: Sounds good!
+24/02/2020, 20:15 - Nitish Singh: Assignment submitted
+24/02/2020, 21:28 - CXM46 Kaushal Agarwal: Done 👍
+24/02/2020, 23:08 - CXM46 Kaushal Agarwal: Awesome 🔥
+24/02/2020, 23:25 - Nitish Singh: Let's connect on LinkedIn
+24/02/2020, 23:59 - CXM46 Kaushal Agarwal: Who is attending today?
+25/02/2020, 01:59 - CXM43 Bhavna Kumari: I'll join shortly
+25/02/2020, 02:09 - CXM43 Bhavna Kumari: Awesome 🔥
+25/02/2020, 02:50 - Nitish Singh: Please check your email
+25/02/2020, 02:54 - Nitish Singh: Done 👍
+25/02/2020, 03:38 - Nitish Singh: Recording will be shared later
+25/02/2020, 05:03 - CXM11 Shantanu Shubham: Session starts in 10 mins
+25/02/2020, 05:21 - CXM48 Anjali: Please check your email
+25/02/2020, 06:43 - CXM43 Bhavna Kumari: Awesome 🔥
+25/02/2020, 06:55 - CXM46 Kaushal Agarwal: https://github.com/example/project
+25/02/2020, 08:17 - CXM46 Kaushal Agarwal: I'll join shortly
+25/02/2020, 09:29 - CXM43 Bhavna Kumari: On my way
+25/02/2020, 10:43 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+25/02/2020, 11:20 - CXM48 Anjali: Done 👍
+25/02/2020, 13:01 - CXM46 Kaushal Agarwal: Can someone share the link?
+25/02/2020, 14:11 - CXM43 Bhavna Kumari: Thanks sir
+25/02/2020, 15:34 - Nitish Singh: Assignment submitted
+25/02/2020, 15:37 - Nitish Singh: https://github.com/example/project
+25/02/2020, 17:07 - CXM48 Anjali: Recording will be shared later
+25/02/2020, 18:03 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+25/02/2020, 19:08 - CXM43 Bhavna Kumari: On my way
+25/02/2020, 19:38 - CXM43 Bhavna Kumari: Can someone share the link?
+25/02/2020, 20:39 - CXM11 Shantanu Shubham: Great session 👏
+25/02/2020, 21:23 - Nitish Singh: Any updates?
+25/02/2020, 21:28 - Nitish Singh: Session starts in 10 mins
+25/02/2020, 22:38 - CXM11 Shantanu Shubham: 😂😂😂
+25/02/2020, 23:56 - Nitish Singh: On my way
+26/02/2020, 00:41 - CXM48 Anjali: Sounds good!
+26/02/2020, 01:26 - Nitish Singh: Recording will be shared later
+26/02/2020, 02:00 - CXM43 Bhavna Kumari: <Media omitted>
+26/02/2020, 03:50 - CXM11 Shantanu Shubham: Done 👍
+26/02/2020, 05:21 - CXM11 Shantanu Shubham: Great session 👏
+26/02/2020, 06:45 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+26/02/2020, 08:15 - CXM46 Kaushal Agarwal: Awesome 🔥
+26/02/2020, 08:35 - Nitish Singh: Let's connect on LinkedIn
+26/02/2020, 10:29 - Nitish Singh: Good morning everyone 😊
+26/02/2020, 11:55 - CXM46 Kaushal Agarwal: <Media omitted>
+26/02/2020, 13:07 - CXM46 Kaushal Agarwal: Recording will be shared later
+26/02/2020, 13:49 - CXM11 Shantanu Shubham: Thanks sir
+26/02/2020, 14:35 - CXM11 Shantanu Shubham: Session starts in 10 mins
+26/02/2020, 15:59 - CXM43 Bhavna Kumari: Session starts in 10 mins
+26/02/2020, 16:02 - CXM46 Kaushal Agarwal: 😂😂😂
+26/02/2020, 16:39 - CXM43 Bhavna Kumari: Can someone share the link?
+26/02/2020, 17:08 - Nitish Singh: Awesome 🔥
+26/02/2020, 19:01 - Nitish Singh: Please check your email
+26/02/2020, 20:28 - CXM11 Shantanu Shubham: <Media omitted>
+26/02/2020, 22:22 - CXM48 Anjali: Any updates?
+26/02/2020, 22:52 - CXM43 Bhavna Kumari: I'll join shortly
+26/02/2020, 23:45 - CXM11 Shantanu Shubham: Awesome 🔥
+27/02/2020, 00:30 - Nitish Singh: <Media omitted>
+27/02/2020, 00:40 - CXM11 Shantanu Shubham: Session starts in 10 mins
+27/02/2020, 02:01 - CXM48 Anjali: Recording will be shared later
+27/02/2020, 02:16 - CXM43 Bhavna Kumari: Awesome 🔥
+27/02/2020, 02:27 - CXM11 Shantanu Shubham: Can someone share the link?
+27/02/2020, 04:06 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+27/02/2020, 05:16 - CXM11 Shantanu Shubham: I'll join shortly
+27/02/2020, 07:06 - CXM46 Kaushal Agarwal: Assignment submitted
+27/02/2020, 08:51 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+27/02/2020, 09:36 - CXM43 Bhavna Kumari: Sounds good!
+27/02/2020, 10:31 - CXM46 Kaushal Agarwal: Awesome 🔥
+27/02/2020, 11:14 - CXM46 Kaushal Agarwal: Sounds good!
+27/02/2020, 12:29 - CXM43 Bhavna Kumari: Can someone share the link?
+27/02/2020, 13:21 - CXM46 Kaushal Agarwal: Any updates?
+27/02/2020, 13:23 - Nitish Singh: 😂😂😂
+27/02/2020, 15:00 - Nitish Singh: Let's connect on LinkedIn
+27/02/2020, 16:59 - CXM43 Bhavna Kumari: 😂😂😂
+27/02/2020, 17:09 - CXM46 Kaushal Agarwal: Any updates?
+27/02/2020, 18:26 - CXM48 Anjali: Thanks sir
+27/02/2020, 18:40 - CXM43 Bhavna Kumari: Great session 👏
+27/02/2020, 20:04 - CXM48 Anjali: Who is attending today?
+27/02/2020, 20:47 - CXM48 Anjali: Assignment submitted
+27/02/2020, 21:59 - CXM48 Anjali: Who is attending today?
+27/02/2020, 22:56 - Nitish Singh: Please check your email
+27/02/2020, 23:41 - Nitish Singh: Good morning everyone 😊
+28/02/2020, 00:20 - CXM48 Anjali: Who is attending today?
+28/02/2020, 01:55 - CXM48 Anjali: Let's connect on LinkedIn
+28/02/2020, 02:53 - Nitish Singh: Awesome 🔥
+28/02/2020, 04:49 - CXM46 Kaushal Agarwal: Any updates?
+28/02/2020, 06:35 - CXM11 Shantanu Shubham: Session starts in 10 mins
+28/02/2020, 06:47 - CXM46 Kaushal Agarwal: Done 👍
+28/02/2020, 07:45 - CXM11 Shantanu Shubham: Can someone share the link?
+28/02/2020, 08:07 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+28/02/2020, 08:24 - CXM11 Shantanu Shubham: Any updates?
+28/02/2020, 08:56 - CXM11 Shantanu Shubham: Please check your email
+28/02/2020, 10:50 - Nitish Singh: <Media omitted>
+28/02/2020, 11:45 - Nitish Singh: Please check your email
+28/02/2020, 13:06 - CXM46 Kaushal Agarwal: <Media omitted>
+28/02/2020, 13:18 - Nitish Singh: Recording will be shared later
+28/02/2020, 14:46 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+28/02/2020, 15:47 - CXM48 Anjali: Assignment submitted
+28/02/2020, 17:43 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+28/02/2020, 19:21 - CXM48 Anjali: Great session 👏
+28/02/2020, 20:55 - CXM43 Bhavna Kumari: Please check your email
+28/02/2020, 21:07 - CXM46 Kaushal Agarwal: Please check your email
+28/02/2020, 22:44 - CXM48 Anjali: Recording will be shared later
+28/02/2020, 23:10 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+29/02/2020, 00:32 - CXM46 Kaushal Agarwal: Who is attending today?
+29/02/2020, 00:38 - CXM43 Bhavna Kumari: Done 👍
+29/02/2020, 02:35 - CXM11 Shantanu Shubham: Recording will be shared later
+29/02/2020, 03:50 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+29/02/2020, 04:32 - Nitish Singh: Assignment submitted
+29/02/2020, 06:30 - CXM43 Bhavna Kumari: Recording will be shared later
+29/02/2020, 07:41 - CXM48 Anjali: Thanks sir
+29/02/2020, 09:17 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+29/02/2020, 10:05 - CXM48 Anjali: Please check your email
+29/02/2020, 11:35 - CXM11 Shantanu Shubham: Can someone share the link?
+29/02/2020, 13:01 - CXM46 Kaushal Agarwal: Can someone share the link?
+29/02/2020, 14:38 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+29/02/2020, 15:42 - CXM48 Anjali: Done 👍
+29/02/2020, 16:23 - CXM48 Anjali: I'll join shortly
+29/02/2020, 17:48 - CXM11 Shantanu Shubham: Awesome 🔥
+29/02/2020, 19:17 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+29/02/2020, 20:21 - CXM43 Bhavna Kumari: https://github.com/example/project
+29/02/2020, 20:59 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+29/02/2020, 22:31 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+29/02/2020, 22:52 - CXM43 Bhavna Kumari: Recording will be shared later
+29/02/2020, 23:35 - CXM48 Anjali: Great session 👏
+01/03/2020, 01:30 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+01/03/2020, 03:10 - CXM43 Bhavna Kumari: Done 👍
+01/03/2020, 04:49 - CXM11 Shantanu Shubham: Sounds good!
+01/03/2020, 05:42 - CXM48 Anjali: Thanks sir
+01/03/2020, 07:08 - CXM48 Anjali: Good morning everyone 😊
+01/03/2020, 08:19 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+01/03/2020, 09:09 - CXM43 Bhavna Kumari: Session starts in 10 mins
+01/03/2020, 09:51 - CXM11 Shantanu Shubham: Assignment submitted
+01/03/2020, 11:21 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+01/03/2020, 12:13 - CXM48 Anjali: Awesome 🔥
+01/03/2020, 12:34 - CXM11 Shantanu Shubham: Good morning everyone 😊
+01/03/2020, 12:58 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+01/03/2020, 14:41 - Nitish Singh: Please check your email
+01/03/2020, 15:18 - Nitish Singh: On my way
+01/03/2020, 15:48 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+01/03/2020, 16:29 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+01/03/2020, 16:39 - CXM43 Bhavna Kumari: Thanks sir
+01/03/2020, 17:20 - CXM43 Bhavna Kumari: https://github.com/example/project
+01/03/2020, 17:44 - CXM48 Anjali: Thanks sir
+01/03/2020, 19:32 - CXM48 Anjali: Sounds good!
+01/03/2020, 19:52 - CXM46 Kaushal Agarwal: Awesome 🔥
+01/03/2020, 21:26 - CXM11 Shantanu Shubham: Done 👍
+01/03/2020, 22:17 - CXM43 Bhavna Kumari: Thanks sir
+01/03/2020, 23:13 - CXM48 Anjali: Session starts in 10 mins
+02/03/2020, 00:21 - CXM48 Anjali: Awesome 🔥
+02/03/2020, 02:01 - CXM43 Bhavna Kumari: Good morning everyone 😊
+02/03/2020, 03:42 - CXM43 Bhavna Kumari: I'll join shortly
+02/03/2020, 04:32 - CXM11 Shantanu Shubham: Thanks sir
+02/03/2020, 04:43 - CXM48 Anjali: https://github.com/example/project
+02/03/2020, 05:05 - CXM48 Anjali: Sounds good!
+02/03/2020, 05:10 - CXM43 Bhavna Kumari: Good morning everyone 😊
+02/03/2020, 06:46 - Nitish Singh: Session starts in 10 mins
+02/03/2020, 07:29 - CXM48 Anjali: https://github.com/example/project
+02/03/2020, 08:26 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+02/03/2020, 08:56 - CXM48 Anjali: Please check your email
+02/03/2020, 10:07 - CXM43 Bhavna Kumari: On my way
+02/03/2020, 11:11 - Nitish Singh: Let's connect on LinkedIn
+02/03/2020, 11:45 - CXM11 Shantanu Shubham: Done 👍
+02/03/2020, 12:54 - CXM43 Bhavna Kumari: <Media omitted>
+02/03/2020, 13:28 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+02/03/2020, 13:52 - CXM46 Kaushal Agarwal: Assignment submitted
+02/03/2020, 15:44 - CXM46 Kaushal Agarwal: Assignment submitted
+02/03/2020, 16:41 - CXM11 Shantanu Shubham: Please check your email
+02/03/2020, 17:50 - CXM46 Kaushal Agarwal: Sounds good!
+02/03/2020, 18:19 - Nitish Singh: Please check your email
+02/03/2020, 19:48 - CXM43 Bhavna Kumari: https://github.com/example/project
+02/03/2020, 20:39 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+02/03/2020, 22:34 - CXM43 Bhavna Kumari: Awesome 🔥
+02/03/2020, 23:31 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+03/03/2020, 00:28 - CXM43 Bhavna Kumari: Sounds good!
+03/03/2020, 02:19 - CXM43 Bhavna Kumari: Great session 👏
+03/03/2020, 03:44 - CXM46 Kaushal Agarwal: <Media omitted>
+03/03/2020, 05:24 - CXM48 Anjali: Awesome 🔥
+03/03/2020, 06:35 - CXM46 Kaushal Agarwal: Awesome 🔥
+03/03/2020, 07:23 - CXM43 Bhavna Kumari: Good morning everyone 😊
+03/03/2020, 08:27 - CXM43 Bhavna Kumari: Session starts in 10 mins
+03/03/2020, 10:05 - CXM46 Kaushal Agarwal: I'll join shortly
+03/03/2020, 10:51 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+03/03/2020, 11:53 - CXM48 Anjali: Who is attending today?
+03/03/2020, 13:35 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+03/03/2020, 13:58 - CXM11 Shantanu Shubham: Sounds good!
+03/03/2020, 15:09 - CXM46 Kaushal Agarwal: I'll join shortly
+03/03/2020, 16:20 - CXM43 Bhavna Kumari: On my way
+03/03/2020, 17:53 - CXM11 Shantanu Shubham: <Media omitted>
+03/03/2020, 19:52 - CXM43 Bhavna Kumari: Awesome 🔥
+03/03/2020, 21:07 - Nitish Singh: <Media omitted>
+03/03/2020, 22:07 - CXM48 Anjali: I'll join shortly
+03/03/2020, 22:22 - CXM48 Anjali: https://github.com/example/project
+03/03/2020, 23:45 - CXM43 Bhavna Kumari: 😂😂😂
+04/03/2020, 00:03 - Nitish Singh: 😂😂😂
+04/03/2020, 02:03 - CXM48 Anjali: Awesome 🔥
+04/03/2020, 02:08 - CXM48 Anjali: Great session 👏
+04/03/2020, 02:58 - CXM43 Bhavna Kumari: Assignment submitted
+04/03/2020, 04:09 - CXM48 Anjali: On my way
+04/03/2020, 05:05 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+04/03/2020, 06:01 - CXM48 Anjali: Sounds good!
+04/03/2020, 07:38 - CXM48 Anjali: Assignment submitted
+04/03/2020, 08:37 - CXM48 Anjali: 😂😂😂
+04/03/2020, 09:59 - CXM46 Kaushal Agarwal: https://github.com/example/project
+04/03/2020, 10:34 - CXM46 Kaushal Agarwal: I'll join shortly
+04/03/2020, 10:41 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+04/03/2020, 11:03 - CXM48 Anjali: Can someone share the link?
+04/03/2020, 11:25 - CXM43 Bhavna Kumari: Thanks sir
+04/03/2020, 12:45 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+04/03/2020, 13:59 - CXM46 Kaushal Agarwal: Can someone share the link?
+04/03/2020, 14:22 - CXM11 Shantanu Shubham: Can someone share the link?
+04/03/2020, 15:21 - CXM43 Bhavna Kumari: Can someone share the link?
+04/03/2020, 17:21 - CXM46 Kaushal Agarwal: Please check your email
+04/03/2020, 17:48 - CXM11 Shantanu Shubham: Awesome 🔥
+04/03/2020, 19:32 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+04/03/2020, 20:26 - CXM11 Shantanu Shubham: I'll join shortly
+04/03/2020, 20:56 - CXM43 Bhavna Kumari: Done 👍
+04/03/2020, 21:29 - CXM46 Kaushal Agarwal: Can someone share the link?
+04/03/2020, 22:08 - CXM48 Anjali: Great session 👏
+05/03/2020, 00:00 - CXM11 Shantanu Shubham: Good morning everyone 😊
+05/03/2020, 00:14 - CXM48 Anjali: I'll join shortly
+05/03/2020, 00:41 - CXM43 Bhavna Kumari: Great session 👏
+05/03/2020, 00:59 - Nitish Singh: Assignment submitted
+05/03/2020, 02:48 - CXM46 Kaushal Agarwal: Great session 👏
+05/03/2020, 03:05 - CXM48 Anjali: Good morning everyone 😊
+05/03/2020, 03:44 - CXM46 Kaushal Agarwal: I'll join shortly
+05/03/2020, 04:22 - CXM11 Shantanu Shubham: I'll join shortly
+05/03/2020, 04:41 - CXM11 Shantanu Shubham: On my way
+05/03/2020, 06:15 - CXM43 Bhavna Kumari: Thanks sir
+05/03/2020, 06:25 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+05/03/2020, 07:23 - Nitish Singh: Can someone share the link?
+05/03/2020, 09:04 - Nitish Singh: Great session 👏
+05/03/2020, 10:23 - CXM48 Anjali: Can someone share the link?
+05/03/2020, 10:26 - Nitish Singh: Can someone share the link?
+05/03/2020, 12:20 - Nitish Singh: Please check your email
+05/03/2020, 12:30 - CXM48 Anjali: Good morning everyone 😊
+05/03/2020, 14:18 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+05/03/2020, 15:00 - CXM48 Anjali: Good morning everyone 😊
+05/03/2020, 16:13 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+05/03/2020, 16:22 - CXM48 Anjali: Great session 👏
+05/03/2020, 16:38 - CXM43 Bhavna Kumari: On my way
+05/03/2020, 16:57 - CXM48 Anjali: Please check your email
+05/03/2020, 18:43 - Nitish Singh: Please check your email
+05/03/2020, 20:23 - CXM46 Kaushal Agarwal: 😂😂😂
+05/03/2020, 22:19 - CXM43 Bhavna Kumari: Great session 👏
+05/03/2020, 23:28 - CXM43 Bhavna Kumari: Please check your email
+06/03/2020, 00:54 - CXM48 Anjali: On my way
+06/03/2020, 02:02 - CXM46 Kaushal Agarwal: Sounds good!
+06/03/2020, 02:07 - CXM46 Kaushal Agarwal: Can someone share the link?
+06/03/2020, 02:51 - Nitish Singh: Awesome 🔥
+06/03/2020, 04:13 - CXM43 Bhavna Kumari: Any updates?
+06/03/2020, 04:56 - Nitish Singh: Great session 👏
+06/03/2020, 05:09 - CXM11 Shantanu Shubham: https://github.com/example/project
+06/03/2020, 05:11 - CXM43 Bhavna Kumari: Assignment submitted
+06/03/2020, 05:45 - Nitish Singh: Let's connect on LinkedIn
+06/03/2020, 07:38 - Nitish Singh: Session starts in 10 mins
+06/03/2020, 08:22 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+06/03/2020, 08:56 - CXM46 Kaushal Agarwal: Please check your email
+06/03/2020, 10:56 - Nitish Singh: Assignment submitted
+06/03/2020, 12:38 - CXM11 Shantanu Shubham: Great session 👏
+06/03/2020, 13:08 - CXM43 Bhavna Kumari: Who is attending today?
+06/03/2020, 14:58 - CXM11 Shantanu Shubham: Who is attending today?
+06/03/2020, 16:22 - CXM46 Kaushal Agarwal: Any updates?
+06/03/2020, 17:47 - CXM48 Anjali: Assignment submitted
+06/03/2020, 17:53 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+06/03/2020, 19:45 - CXM43 Bhavna Kumari: Who is attending today?
+06/03/2020, 20:03 - CXM43 Bhavna Kumari: https://github.com/example/project
+06/03/2020, 20:08 - CXM43 Bhavna Kumari: https://github.com/example/project
+06/03/2020, 20:18 - CXM48 Anjali: Session starts in 10 mins
+06/03/2020, 21:34 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+06/03/2020, 22:27 - CXM43 Bhavna Kumari: <Media omitted>
+06/03/2020, 23:43 - CXM48 Anjali: Great session 👏
+07/03/2020, 00:24 - Nitish Singh: Let's connect on LinkedIn
+07/03/2020, 01:52 - CXM46 Kaushal Agarwal: On my way
+07/03/2020, 02:55 - CXM48 Anjali: Done 👍
+07/03/2020, 02:57 - CXM48 Anjali: Can someone share the link?
+07/03/2020, 03:03 - Nitish Singh: Assignment submitted
+07/03/2020, 03:58 - Nitish Singh: <Media omitted>
+07/03/2020, 04:07 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+07/03/2020, 04:08 - CXM46 Kaushal Agarwal: Thanks sir
+07/03/2020, 04:56 - CXM48 Anjali: Recording will be shared later
+07/03/2020, 06:44 - CXM46 Kaushal Agarwal: https://github.com/example/project
+07/03/2020, 08:43 - CXM11 Shantanu Shubham: Sounds good!
+07/03/2020, 09:54 - Nitish Singh: Assignment submitted
+07/03/2020, 11:46 - Nitish Singh: Good morning everyone 😊
+07/03/2020, 12:02 - CXM48 Anjali: Let's connect on LinkedIn
+07/03/2020, 13:50 - CXM48 Anjali: Let's connect on LinkedIn
+07/03/2020, 15:42 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+07/03/2020, 17:34 - CXM11 Shantanu Shubham: https://github.com/example/project
+07/03/2020, 17:47 - CXM48 Anjali: Please check your email
+07/03/2020, 19:18 - Nitish Singh: Great session 👏
+07/03/2020, 20:01 - CXM43 Bhavna Kumari: 😂😂😂
+07/03/2020, 21:52 - CXM43 Bhavna Kumari: Any updates?
+07/03/2020, 23:17 - CXM43 Bhavna Kumari: Session starts in 10 mins
+08/03/2020, 00:05 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+08/03/2020, 01:49 - Nitish Singh: <Media omitted>
+08/03/2020, 03:15 - CXM48 Anjali: Any updates?
+08/03/2020, 05:06 - CXM11 Shantanu Shubham: Awesome 🔥
+08/03/2020, 06:35 - Nitish Singh: Any updates?
+08/03/2020, 07:32 - CXM48 Anjali: Awesome 🔥
+08/03/2020, 07:36 - CXM43 Bhavna Kumari: Sounds good!
+08/03/2020, 09:31 - CXM11 Shantanu Shubham: Session starts in 10 mins
+08/03/2020, 10:46 - CXM46 Kaushal Agarwal: https://github.com/example/project
+08/03/2020, 11:08 - CXM46 Kaushal Agarwal: Recording will be shared later
+08/03/2020, 12:11 - Nitish Singh: I'll join shortly
+08/03/2020, 12:47 - CXM46 Kaushal Agarwal: Sounds good!
+08/03/2020, 14:24 - CXM11 Shantanu Shubham: Great session 👏
+08/03/2020, 14:29 - CXM48 Anjali: I'll join shortly
+08/03/2020, 15:38 - CXM46 Kaushal Agarwal: Can someone share the link?
+08/03/2020, 16:14 - CXM46 Kaushal Agarwal: Recording will be shared later
+08/03/2020, 16:43 - CXM43 Bhavna Kumari: Great session 👏
+08/03/2020, 17:12 - Nitish Singh: Awesome 🔥
+08/03/2020, 18:54 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+08/03/2020, 20:24 - CXM48 Anjali: https://github.com/example/project
+08/03/2020, 21:08 - CXM11 Shantanu Shubham: Can someone share the link?
+08/03/2020, 22:47 - CXM43 Bhavna Kumari: 😂😂😂
+08/03/2020, 23:20 - CXM48 Anjali: Can someone share the link?
+09/03/2020, 00:51 - CXM48 Anjali: Any updates?
+09/03/2020, 02:29 - Nitish Singh: Sounds good!
+09/03/2020, 02:51 - Nitish Singh: Who is attending today?
+09/03/2020, 04:27 - CXM46 Kaushal Agarwal: I'll join shortly
+09/03/2020, 04:44 - CXM43 Bhavna Kumari: Sounds good!
+09/03/2020, 06:24 - CXM48 Anjali: Who is attending today?
+09/03/2020, 08:00 - CXM46 Kaushal Agarwal: Sounds good!
+09/03/2020, 09:43 - CXM43 Bhavna Kumari: Great session 👏
+09/03/2020, 10:06 - CXM48 Anjali: I'll join shortly
+09/03/2020, 10:18 - Nitish Singh: I'll join shortly
+09/03/2020, 11:08 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+09/03/2020, 12:15 - CXM48 Anjali: On my way
+09/03/2020, 13:32 - CXM46 Kaushal Agarwal: Who is attending today?
+09/03/2020, 13:50 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+09/03/2020, 15:48 - CXM11 Shantanu Shubham: Great session 👏
+09/03/2020, 15:58 - CXM43 Bhavna Kumari: Recording will be shared later
+09/03/2020, 17:06 - CXM11 Shantanu Shubham: Thanks sir
+09/03/2020, 18:36 - Nitish Singh: Let's connect on LinkedIn
+09/03/2020, 19:18 - CXM43 Bhavna Kumari: I'll join shortly
+09/03/2020, 19:32 - CXM43 Bhavna Kumari: 😂😂😂
+09/03/2020, 20:31 - CXM43 Bhavna Kumari: Sounds good!
+09/03/2020, 21:29 - CXM48 Anjali: Awesome 🔥
+09/03/2020, 22:00 - CXM46 Kaushal Agarwal: Please check your email
+09/03/2020, 22:16 - CXM46 Kaushal Agarwal: Thanks sir
+09/03/2020, 22:57 - CXM46 Kaushal Agarwal: https://github.com/example/project
+10/03/2020, 00:43 - CXM11 Shantanu Shubham: Great session 👏
+10/03/2020, 02:05 - CXM43 Bhavna Kumari: <Media omitted>
+10/03/2020, 03:28 - CXM46 Kaushal Agarwal: Please check your email
+10/03/2020, 03:40 - Nitish Singh: Let's connect on LinkedIn
+10/03/2020, 05:22 - CXM11 Shantanu Shubham: Recording will be shared later
+10/03/2020, 06:59 - CXM11 Shantanu Shubham: <Media omitted>
+10/03/2020, 08:56 - Nitish Singh: 😂😂😂
+10/03/2020, 09:30 - CXM48 Anjali: On my way
+10/03/2020, 11:01 - CXM11 Shantanu Shubham: Assignment submitted
+10/03/2020, 12:20 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+10/03/2020, 13:24 - Nitish Singh: <Media omitted>
+10/03/2020, 13:35 - Nitish Singh: Let's connect on LinkedIn
+10/03/2020, 14:35 - CXM48 Anjali: Awesome 🔥
+10/03/2020, 15:17 - CXM48 Anjali: Sounds good!
+10/03/2020, 16:44 - CXM48 Anjali: Who is attending today?
+10/03/2020, 18:00 - CXM11 Shantanu Shubham: Recording will be shared later
+10/03/2020, 19:39 - Nitish Singh: https://github.com/example/project
+10/03/2020, 21:35 - Nitish Singh: Awesome 🔥
+10/03/2020, 23:12 - Nitish Singh: Great session 👏
+11/03/2020, 01:12 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+11/03/2020, 03:04 - Nitish Singh: Let's connect on LinkedIn
+11/03/2020, 04:00 - CXM43 Bhavna Kumari: On my way
+11/03/2020, 05:05 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+11/03/2020, 06:20 - Nitish Singh: Any updates?
+11/03/2020, 06:51 - CXM43 Bhavna Kumari: Can someone share the link?
+11/03/2020, 07:23 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+11/03/2020, 08:21 - CXM43 Bhavna Kumari: 😂😂😂
+11/03/2020, 08:30 - CXM46 Kaushal Agarwal: 😂😂😂
+11/03/2020, 10:04 - CXM46 Kaushal Agarwal: Can someone share the link?
+11/03/2020, 11:25 - CXM43 Bhavna Kumari: Sounds good!
+11/03/2020, 12:17 - CXM11 Shantanu Shubham: Sounds good!
+11/03/2020, 13:02 - CXM43 Bhavna Kumari: Assignment submitted
+11/03/2020, 13:15 - CXM11 Shantanu Shubham: Assignment submitted
+11/03/2020, 13:22 - CXM48 Anjali: 😂😂😂
+11/03/2020, 14:05 - Nitish Singh: https://github.com/example/project
+11/03/2020, 15:56 - CXM43 Bhavna Kumari: <Media omitted>
+11/03/2020, 17:09 - CXM48 Anjali: Good morning everyone 😊
+11/03/2020, 19:05 - CXM11 Shantanu Shubham: <Media omitted>
+11/03/2020, 20:42 - Nitish Singh: Any updates?
+11/03/2020, 22:02 - CXM46 Kaushal Agarwal: Great session 👏
+11/03/2020, 23:38 - CXM46 Kaushal Agarwal: Can someone share the link?
+12/03/2020, 00:53 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+12/03/2020, 02:11 - CXM48 Anjali: Great session 👏
+12/03/2020, 02:58 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+12/03/2020, 03:41 - CXM46 Kaushal Agarwal: Great session 👏
+12/03/2020, 03:58 - Nitish Singh: Please check your email
+12/03/2020, 04:56 - CXM43 Bhavna Kumari: Session starts in 10 mins
+12/03/2020, 06:35 - Nitish Singh: https://github.com/example/project
+12/03/2020, 06:51 - CXM43 Bhavna Kumari: <Media omitted>
+12/03/2020, 07:17 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+12/03/2020, 08:08 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+12/03/2020, 08:20 - CXM46 Kaushal Agarwal: Who is attending today?
+12/03/2020, 09:56 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+12/03/2020, 10:39 - Nitish Singh: Let's connect on LinkedIn
+12/03/2020, 12:19 - Nitish Singh: Done 👍
+12/03/2020, 12:51 - CXM43 Bhavna Kumari: https://github.com/example/project
+12/03/2020, 12:52 - CXM11 Shantanu Shubham: Please check your email
+12/03/2020, 13:54 - CXM48 Anjali: Good morning everyone 😊
+12/03/2020, 15:02 - CXM43 Bhavna Kumari: On my way
+12/03/2020, 16:32 - CXM43 Bhavna Kumari: 😂😂😂
+12/03/2020, 16:35 - CXM48 Anjali: Thanks sir
+12/03/2020, 17:12 - Nitish Singh: Assignment submitted
+12/03/2020, 18:14 - CXM43 Bhavna Kumari: Any updates?
+12/03/2020, 20:12 - Nitish Singh: Sounds good!
+12/03/2020, 22:11 - CXM11 Shantanu Shubham: Good morning everyone 😊
+12/03/2020, 23:00 - Nitish Singh: Awesome 🔥
+13/03/2020, 00:21 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+13/03/2020, 01:47 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+13/03/2020, 03:18 - Nitish Singh: https://github.com/example/project
+13/03/2020, 03:34 - CXM48 Anjali: https://github.com/example/project
+13/03/2020, 05:03 - CXM46 Kaushal Agarwal: <Media omitted>
+13/03/2020, 06:39 - CXM43 Bhavna Kumari: Session starts in 10 mins
+13/03/2020, 07:21 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+13/03/2020, 07:23 - CXM46 Kaushal Agarwal: On my way
+13/03/2020, 08:27 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+13/03/2020, 08:33 - CXM48 Anjali: Please check your email
+13/03/2020, 09:41 - CXM43 Bhavna Kumari: Who is attending today?
+13/03/2020, 10:30 - CXM48 Anjali: Sounds good!
+13/03/2020, 10:51 - CXM11 Shantanu Shubham: Assignment submitted
+13/03/2020, 11:28 - CXM43 Bhavna Kumari: Great session 👏
+13/03/2020, 12:50 - CXM48 Anjali: Let's connect on LinkedIn
+13/03/2020, 12:59 - CXM11 Shantanu Shubham: Done 👍
+13/03/2020, 14:52 - CXM11 Shantanu Shubham: Please check your email
+13/03/2020, 16:30 - CXM48 Anjali: Can someone share the link?
+13/03/2020, 17:59 - CXM43 Bhavna Kumari: Done 👍
+13/03/2020, 19:35 - CXM11 Shantanu Shubham: Any updates?
+13/03/2020, 19:47 - CXM46 Kaushal Agarwal: Can someone share the link?
+13/03/2020, 21:02 - CXM48 Anjali: Please check your email
+13/03/2020, 21:42 - CXM48 Anjali: Any updates?
+13/03/2020, 22:52 - CXM46 Kaushal Agarwal: Done 👍
+13/03/2020, 23:21 - CXM43 Bhavna Kumari: Good morning everyone 😊
+14/03/2020, 00:05 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+14/03/2020, 00:23 - CXM46 Kaushal Agarwal: Done 👍
+14/03/2020, 02:01 - CXM46 Kaushal Agarwal: On my way
+14/03/2020, 03:00 - CXM11 Shantanu Shubham: Great session 👏
+14/03/2020, 03:16 - Nitish Singh: <Media omitted>
+14/03/2020, 03:44 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+14/03/2020, 04:27 - CXM48 Anjali: Session starts in 10 mins
+14/03/2020, 05:55 - CXM43 Bhavna Kumari: Thanks sir
+14/03/2020, 06:58 - CXM43 Bhavna Kumari: Assignment submitted
+14/03/2020, 08:34 - CXM48 Anjali: Great session 👏
+14/03/2020, 09:19 - Nitish Singh: Thanks sir
+14/03/2020, 10:01 - CXM11 Shantanu Shubham: Who is attending today?
+14/03/2020, 11:10 - CXM43 Bhavna Kumari: I'll join shortly
+14/03/2020, 11:27 - Nitish Singh: 😂😂😂
+14/03/2020, 13:16 - CXM48 Anjali: <Media omitted>
+14/03/2020, 14:53 - CXM43 Bhavna Kumari: Good morning everyone 😊
+14/03/2020, 14:57 - CXM11 Shantanu Shubham: I'll join shortly
+14/03/2020, 15:16 - Nitish Singh: Great session 👏
+14/03/2020, 17:07 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+14/03/2020, 17:56 - Nitish Singh: https://github.com/example/project
+14/03/2020, 18:25 - CXM48 Anjali: Good morning everyone 😊
+14/03/2020, 18:52 - CXM46 Kaushal Agarwal: I'll join shortly
+14/03/2020, 20:48 - CXM11 Shantanu Shubham: 😂😂😂
+14/03/2020, 21:09 - CXM46 Kaushal Agarwal: Assignment submitted
+14/03/2020, 21:31 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+14/03/2020, 22:22 - CXM43 Bhavna Kumari: Done 👍
+14/03/2020, 23:46 - CXM43 Bhavna Kumari: Great session 👏
+15/03/2020, 00:25 - CXM43 Bhavna Kumari: Assignment submitted
+15/03/2020, 00:47 - CXM11 Shantanu Shubham: https://github.com/example/project
+15/03/2020, 01:24 - Nitish Singh: 😂😂😂
+15/03/2020, 02:17 - CXM46 Kaushal Agarwal: I'll join shortly
+15/03/2020, 03:49 - CXM11 Shantanu Shubham: https://github.com/example/project
+15/03/2020, 03:54 - CXM46 Kaushal Agarwal: On my way
+15/03/2020, 04:24 - CXM11 Shantanu Shubham: Recording will be shared later
+15/03/2020, 06:03 - CXM48 Anjali: Done 👍
+15/03/2020, 07:06 - CXM48 Anjali: Thanks sir
+15/03/2020, 08:19 - CXM11 Shantanu Shubham: https://github.com/example/project
+15/03/2020, 08:32 - CXM11 Shantanu Shubham: Thanks sir
+15/03/2020, 09:44 - CXM11 Shantanu Shubham: Please check your email
+15/03/2020, 10:02 - Nitish Singh: Session starts in 10 mins
+15/03/2020, 11:31 - Nitish Singh: https://github.com/example/project
+15/03/2020, 12:30 - CXM46 Kaushal Agarwal: 😂😂😂
+15/03/2020, 13:03 - CXM48 Anjali: Assignment submitted
+15/03/2020, 14:26 - CXM11 Shantanu Shubham: Session starts in 10 mins
+15/03/2020, 15:02 - Nitish Singh: Please check your email
+15/03/2020, 15:34 - CXM43 Bhavna Kumari: Assignment submitted
+15/03/2020, 15:50 - Nitish Singh: Session starts in 10 mins
+15/03/2020, 15:52 - CXM43 Bhavna Kumari: Good morning everyone 😊
+15/03/2020, 16:24 - Nitish Singh: Who is attending today?
+15/03/2020, 17:22 - CXM43 Bhavna Kumari: Please check your email
+15/03/2020, 18:31 - CXM48 Anjali: Good morning everyone 😊
+15/03/2020, 18:37 - CXM48 Anjali: Recording will be shared later
+15/03/2020, 19:34 - CXM43 Bhavna Kumari: Recording will be shared later
+15/03/2020, 19:38 - CXM11 Shantanu Shubham: On my way
+15/03/2020, 20:10 - CXM43 Bhavna Kumari: Assignment submitted
+15/03/2020, 22:03 - Nitish Singh: Awesome 🔥
+15/03/2020, 23:08 - CXM46 Kaushal Agarwal: Sounds good!
+16/03/2020, 00:31 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+16/03/2020, 01:34 - CXM43 Bhavna Kumari: Done 👍
+16/03/2020, 02:12 - CXM11 Shantanu Shubham: Good morning everyone 😊
+16/03/2020, 04:06 - CXM48 Anjali: Sounds good!
+16/03/2020, 05:20 - CXM48 Anjali: 😂😂😂
+16/03/2020, 05:58 - CXM43 Bhavna Kumari: Thanks sir
+16/03/2020, 06:12 - CXM43 Bhavna Kumari: Any updates?
+16/03/2020, 07:59 - Nitish Singh: Recording will be shared later
+16/03/2020, 09:53 - CXM43 Bhavna Kumari: Awesome 🔥
+16/03/2020, 10:15 - CXM11 Shantanu Shubham: Assignment submitted
+16/03/2020, 10:49 - CXM11 Shantanu Shubham: On my way
+16/03/2020, 11:18 - Nitish Singh: https://github.com/example/project
+16/03/2020, 11:34 - CXM11 Shantanu Shubham: 😂😂😂
+16/03/2020, 12:00 - CXM46 Kaushal Agarwal: Please check your email
+16/03/2020, 12:53 - Nitish Singh: Great session 👏
+16/03/2020, 13:31 - CXM11 Shantanu Shubham: Recording will be shared later
+16/03/2020, 15:29 - Nitish Singh: <Media omitted>
+16/03/2020, 15:51 - CXM11 Shantanu Shubham: Please check your email
+16/03/2020, 15:55 - CXM46 Kaushal Agarwal: <Media omitted>
+16/03/2020, 16:29 - CXM46 Kaushal Agarwal: Can someone share the link?
+16/03/2020, 17:52 - CXM48 Anjali: Let's connect on LinkedIn
+16/03/2020, 18:45 - CXM46 Kaushal Agarwal: Done 👍
+16/03/2020, 20:34 - CXM11 Shantanu Shubham: Who is attending today?
+16/03/2020, 21:45 - Nitish Singh: 😂😂😂
+16/03/2020, 23:10 - Nitish Singh: https://github.com/example/project
+17/03/2020, 01:03 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+17/03/2020, 01:22 - CXM46 Kaushal Agarwal: Thanks sir
+17/03/2020, 02:35 - CXM48 Anjali: Awesome 🔥
+17/03/2020, 04:32 - CXM46 Kaushal Agarwal: I'll join shortly
+17/03/2020, 04:58 - CXM46 Kaushal Agarwal: Done 👍
+17/03/2020, 06:24 - CXM43 Bhavna Kumari: Assignment submitted
+17/03/2020, 06:29 - CXM43 Bhavna Kumari: Good morning everyone 😊
+17/03/2020, 07:22 - CXM46 Kaushal Agarwal: Who is attending today?
+17/03/2020, 08:13 - CXM46 Kaushal Agarwal: Who is attending today?
+17/03/2020, 08:18 - CXM11 Shantanu Shubham: Done 👍
+17/03/2020, 08:47 - CXM48 Anjali: Recording will be shared later
+17/03/2020, 09:48 - Nitish Singh: Let's connect on LinkedIn
+17/03/2020, 11:40 - Nitish Singh: Done 👍
+17/03/2020, 11:43 - CXM48 Anjali: I'll join shortly
+17/03/2020, 12:10 - Nitish Singh: Please check your email
+17/03/2020, 13:53 - CXM46 Kaushal Agarwal: Great session 👏
+17/03/2020, 15:24 - CXM43 Bhavna Kumari: Done 👍
+17/03/2020, 15:36 - CXM43 Bhavna Kumari: Thanks sir
+17/03/2020, 16:14 - CXM48 Anjali: Sounds good!
+17/03/2020, 17:55 - Nitish Singh: Awesome 🔥
+17/03/2020, 19:50 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+17/03/2020, 20:12 - Nitish Singh: I'll join shortly
+17/03/2020, 21:51 - Nitish Singh: Done 👍
+17/03/2020, 22:08 - CXM48 Anjali: Recording will be shared later
+17/03/2020, 23:19 - CXM43 Bhavna Kumari: On my way
+18/03/2020, 01:02 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+18/03/2020, 01:11 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+18/03/2020, 01:30 - CXM46 Kaushal Agarwal: Any updates?
+18/03/2020, 02:43 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+18/03/2020, 04:18 - Nitish Singh: I'll join shortly
+18/03/2020, 05:51 - CXM11 Shantanu Shubham: Great session 👏
+18/03/2020, 06:53 - CXM43 Bhavna Kumari: 😂😂😂
+18/03/2020, 07:34 - CXM43 Bhavna Kumari: Thanks sir
+18/03/2020, 08:32 - CXM46 Kaushal Agarwal: Recording will be shared later
+18/03/2020, 09:20 - CXM46 Kaushal Agarwal: 😂😂😂
+18/03/2020, 11:17 - CXM11 Shantanu Shubham: Can someone share the link?
+18/03/2020, 12:08 - CXM48 Anjali: Please check your email
+18/03/2020, 12:37 - CXM48 Anjali: Sounds good!
+18/03/2020, 13:04 - Nitish Singh: On my way
+18/03/2020, 13:07 - CXM46 Kaushal Agarwal: Assignment submitted
+18/03/2020, 13:58 - Nitish Singh: Please check your email
+18/03/2020, 14:32 - CXM48 Anjali: On my way
+18/03/2020, 14:40 - CXM48 Anjali: Any updates?
+18/03/2020, 15:22 - CXM11 Shantanu Shubham: Assignment submitted
+18/03/2020, 15:31 - Nitish Singh: Done 👍
+18/03/2020, 15:42 - CXM11 Shantanu Shubham: Thanks sir
+18/03/2020, 16:05 - CXM46 Kaushal Agarwal: https://github.com/example/project
+18/03/2020, 17:09 - CXM48 Anjali: Recording will be shared later
+18/03/2020, 18:06 - CXM48 Anjali: Can someone share the link?
+18/03/2020, 18:09 - CXM11 Shantanu Shubham: Great session 👏
+18/03/2020, 19:27 - CXM43 Bhavna Kumari: https://github.com/example/project
+18/03/2020, 19:47 - CXM46 Kaushal Agarwal: Any updates?
+18/03/2020, 20:33 - Nitish Singh: Any updates?
+18/03/2020, 21:58 - CXM11 Shantanu Shubham: Done 👍
+18/03/2020, 22:29 - CXM11 Shantanu Shubham: Sounds good!
+18/03/2020, 22:59 - CXM48 Anjali: I'll join shortly
+19/03/2020, 00:20 - CXM43 Bhavna Kumari: Assignment submitted
+19/03/2020, 01:23 - CXM11 Shantanu Shubham: Sounds good!
+19/03/2020, 02:00 - CXM43 Bhavna Kumari: <Media omitted>
+19/03/2020, 03:04 - Nitish Singh: Awesome 🔥
+19/03/2020, 04:07 - CXM48 Anjali: Any updates?
+19/03/2020, 04:13 - CXM11 Shantanu Shubham: Who is attending today?
+19/03/2020, 05:33 - Nitish Singh: <Media omitted>
+19/03/2020, 06:18 - CXM46 Kaushal Agarwal: On my way
+19/03/2020, 06:48 - CXM43 Bhavna Kumari: Sounds good!
+19/03/2020, 07:39 - Nitish Singh: Great session 👏
+19/03/2020, 08:24 - CXM43 Bhavna Kumari: <Media omitted>
+19/03/2020, 10:21 - CXM11 Shantanu Shubham: Who is attending today?
+19/03/2020, 11:28 - CXM48 Anjali: Let's connect on LinkedIn
+19/03/2020, 11:31 - CXM48 Anjali: On my way
+19/03/2020, 12:46 - CXM43 Bhavna Kumari: Please check your email
+19/03/2020, 13:50 - CXM11 Shantanu Shubham: I'll join shortly
+19/03/2020, 14:19 - CXM48 Anjali: Good morning everyone 😊
+19/03/2020, 14:32 - CXM11 Shantanu Shubham: On my way
+19/03/2020, 16:06 - CXM11 Shantanu Shubham: 😂😂😂
+19/03/2020, 17:17 - CXM43 Bhavna Kumari: Great session 👏
+19/03/2020, 17:57 - CXM43 Bhavna Kumari: Recording will be shared later
+19/03/2020, 18:23 - CXM11 Shantanu Shubham: Awesome 🔥
+19/03/2020, 19:46 - Nitish Singh: Session starts in 10 mins
+19/03/2020, 21:22 - CXM43 Bhavna Kumari: Sounds good!
+19/03/2020, 23:12 - CXM11 Shantanu Shubham: On my way
+20/03/2020, 00:59 - Nitish Singh: Any updates?
+20/03/2020, 02:34 - CXM11 Shantanu Shubham: Who is attending today?
+20/03/2020, 03:25 - Nitish Singh: Sounds good!
+20/03/2020, 05:12 - CXM11 Shantanu Shubham: I'll join shortly
+20/03/2020, 06:44 - CXM46 Kaushal Agarwal: Please check your email
+20/03/2020, 07:43 - CXM48 Anjali: Please check your email
+20/03/2020, 08:14 - Nitish Singh: Sounds good!
+20/03/2020, 08:36 - CXM43 Bhavna Kumari: Assignment submitted
+20/03/2020, 09:06 - Nitish Singh: https://github.com/example/project
+20/03/2020, 10:31 - CXM48 Anjali: Sounds good!
+20/03/2020, 11:32 - CXM43 Bhavna Kumari: Assignment submitted
+20/03/2020, 13:01 - CXM46 Kaushal Agarwal: Thanks sir
+20/03/2020, 14:26 - CXM43 Bhavna Kumari: <Media omitted>
+20/03/2020, 16:17 - CXM11 Shantanu Shubham: Recording will be shared later
+20/03/2020, 16:53 - CXM11 Shantanu Shubham: Can someone share the link?
+20/03/2020, 17:13 - CXM48 Anjali: Who is attending today?
+20/03/2020, 17:15 - CXM46 Kaushal Agarwal: Sounds good!
+20/03/2020, 18:14 - CXM11 Shantanu Shubham: https://github.com/example/project
+20/03/2020, 19:30 - CXM46 Kaushal Agarwal: I'll join shortly
+20/03/2020, 20:52 - CXM48 Anjali: Good morning everyone 😊
+20/03/2020, 22:10 - CXM11 Shantanu Shubham: Good morning everyone 😊
+21/03/2020, 00:06 - CXM48 Anjali: <Media omitted>
+21/03/2020, 01:51 - CXM43 Bhavna Kumari: 😂😂😂
+21/03/2020, 02:53 - CXM46 Kaushal Agarwal: Any updates?
+21/03/2020, 03:30 - Nitish Singh: Who is attending today?
+21/03/2020, 04:40 - CXM11 Shantanu Shubham: Please check your email
+21/03/2020, 04:46 - CXM43 Bhavna Kumari: Any updates?
+21/03/2020, 06:43 - CXM11 Shantanu Shubham: Who is attending today?
+21/03/2020, 08:27 - CXM46 Kaushal Agarwal: Great session 👏
+21/03/2020, 09:10 - CXM46 Kaushal Agarwal: Awesome 🔥
+21/03/2020, 09:15 - Nitish Singh: Who is attending today?
+21/03/2020, 09:45 - Nitish Singh: Who is attending today?
+21/03/2020, 09:58 - CXM43 Bhavna Kumari: <Media omitted>
+21/03/2020, 10:09 - CXM46 Kaushal Agarwal: Awesome 🔥
+21/03/2020, 11:09 - CXM43 Bhavna Kumari: Please check your email
+21/03/2020, 12:01 - CXM11 Shantanu Shubham: Can someone share the link?
+21/03/2020, 13:33 - CXM11 Shantanu Shubham: Please check your email
+21/03/2020, 14:08 - CXM43 Bhavna Kumari: 😂😂😂
+21/03/2020, 15:01 - CXM11 Shantanu Shubham: Good morning everyone 😊
+21/03/2020, 15:08 - CXM48 Anjali: Assignment submitted
+21/03/2020, 16:23 - CXM46 Kaushal Agarwal: On my way
+21/03/2020, 18:21 - CXM48 Anjali: Can someone share the link?
+21/03/2020, 18:46 - CXM11 Shantanu Shubham: Recording will be shared later
+21/03/2020, 20:31 - CXM48 Anjali: Can someone share the link?
+21/03/2020, 21:50 - Nitish Singh: https://github.com/example/project
+21/03/2020, 22:21 - CXM11 Shantanu Shubham: Done 👍
+22/03/2020, 00:12 - CXM48 Anjali: https://github.com/example/project
+22/03/2020, 01:17 - CXM11 Shantanu Shubham: Great session 👏
+22/03/2020, 02:14 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+22/03/2020, 02:15 - Nitish Singh: Thanks sir
+22/03/2020, 04:09 - CXM48 Anjali: https://github.com/example/project
+22/03/2020, 06:02 - Nitish Singh: Recording will be shared later
+22/03/2020, 07:50 - CXM48 Anjali: https://github.com/example/project
+22/03/2020, 08:30 - CXM11 Shantanu Shubham: Assignment submitted
+22/03/2020, 09:32 - CXM43 Bhavna Kumari: Recording will be shared later
+22/03/2020, 10:56 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+22/03/2020, 12:50 - CXM43 Bhavna Kumari: Good morning everyone 😊
+22/03/2020, 13:18 - CXM43 Bhavna Kumari: Great session 👏
+22/03/2020, 15:13 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+22/03/2020, 16:30 - CXM11 Shantanu Shubham: Who is attending today?
+22/03/2020, 17:00 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+22/03/2020, 18:26 - CXM46 Kaushal Agarwal: Thanks sir
+22/03/2020, 19:50 - CXM48 Anjali: 😂😂😂
+22/03/2020, 20:44 - CXM43 Bhavna Kumari: Session starts in 10 mins
+22/03/2020, 22:42 - CXM43 Bhavna Kumari: Please check your email
+23/03/2020, 00:19 - CXM43 Bhavna Kumari: Any updates?
+23/03/2020, 00:42 - CXM43 Bhavna Kumari: Any updates?
+23/03/2020, 02:06 - CXM43 Bhavna Kumari: On my way
+23/03/2020, 02:28 - Nitish Singh: I'll join shortly
+23/03/2020, 04:05 - CXM11 Shantanu Shubham: Please check your email
+23/03/2020, 04:55 - CXM43 Bhavna Kumari: Great session 👏
+23/03/2020, 06:17 - CXM46 Kaushal Agarwal: <Media omitted>
+23/03/2020, 07:26 - Nitish Singh: Done 👍
+23/03/2020, 07:56 - CXM48 Anjali: Done 👍
+23/03/2020, 09:30 - CXM11 Shantanu Shubham: Done 👍
+23/03/2020, 10:52 - Nitish Singh: Awesome 🔥
+23/03/2020, 11:34 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+23/03/2020, 12:51 - CXM48 Anjali: Any updates?
+23/03/2020, 12:54 - CXM48 Anjali: Great session 👏
+23/03/2020, 13:08 - CXM11 Shantanu Shubham: I'll join shortly
+23/03/2020, 14:32 - CXM48 Anjali: Good morning everyone 😊
+23/03/2020, 15:14 - CXM11 Shantanu Shubham: Recording will be shared later
+23/03/2020, 16:29 - CXM43 Bhavna Kumari: On my way
+23/03/2020, 17:25 - CXM46 Kaushal Agarwal: https://github.com/example/project
+23/03/2020, 18:12 - CXM46 Kaushal Agarwal: https://github.com/example/project
+23/03/2020, 18:27 - CXM11 Shantanu Shubham: Sounds good!
+23/03/2020, 19:12 - CXM11 Shantanu Shubham: 😂😂😂
+23/03/2020, 20:59 - CXM43 Bhavna Kumari: Thanks sir
+23/03/2020, 21:25 - Nitish Singh: Can someone share the link?
+23/03/2020, 21:53 - CXM46 Kaushal Agarwal: On my way
+23/03/2020, 22:52 - CXM11 Shantanu Shubham: Sounds good!
+23/03/2020, 22:55 - Nitish Singh: Please check your email
+23/03/2020, 23:52 - CXM48 Anjali: Sounds good!
+24/03/2020, 01:41 - CXM46 Kaushal Agarwal: Great session 👏
+24/03/2020, 03:09 - CXM46 Kaushal Agarwal: I'll join shortly
+24/03/2020, 03:26 - Nitish Singh: Thanks sir
+24/03/2020, 05:16 - CXM46 Kaushal Agarwal: Awesome 🔥
+24/03/2020, 05:35 - CXM46 Kaushal Agarwal: 😂😂😂
+24/03/2020, 07:16 - Nitish Singh: Good morning everyone 😊
+24/03/2020, 08:30 - CXM48 Anjali: Sounds good!
+24/03/2020, 08:34 - CXM43 Bhavna Kumari: Thanks sir
+24/03/2020, 09:38 - CXM43 Bhavna Kumari: On my way
+24/03/2020, 10:19 - Nitish Singh: Recording will be shared later
+24/03/2020, 11:16 - CXM11 Shantanu Shubham: https://github.com/example/project
+24/03/2020, 13:11 - CXM46 Kaushal Agarwal: Sounds good!
+24/03/2020, 13:51 - CXM11 Shantanu Shubham: Thanks sir
+24/03/2020, 13:58 - CXM11 Shantanu Shubham: Session starts in 10 mins
+24/03/2020, 14:43 - CXM48 Anjali: <Media omitted>
+24/03/2020, 15:57 - CXM43 Bhavna Kumari: Awesome 🔥
+24/03/2020, 16:54 - CXM46 Kaushal Agarwal: Sounds good!
+24/03/2020, 17:35 - CXM48 Anjali: Recording will be shared later
+24/03/2020, 19:11 - Nitish Singh: Session starts in 10 mins
+24/03/2020, 19:18 - Nitish Singh: https://github.com/example/project
+24/03/2020, 21:10 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+24/03/2020, 22:09 - CXM46 Kaushal Agarwal: <Media omitted>
+24/03/2020, 23:56 - CXM11 Shantanu Shubham: Done 👍
+25/03/2020, 01:06 - CXM11 Shantanu Shubham: Please check your email
+25/03/2020, 01:11 - CXM43 Bhavna Kumari: Any updates?
+25/03/2020, 01:25 - CXM46 Kaushal Agarwal: Please check your email
+25/03/2020, 01:37 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+25/03/2020, 02:57 - CXM46 Kaushal Agarwal: Any updates?
+25/03/2020, 04:45 - Nitish Singh: Recording will be shared later
+25/03/2020, 05:27 - Nitish Singh: Good morning everyone 😊
+25/03/2020, 06:45 - CXM46 Kaushal Agarwal: Sounds good!
+25/03/2020, 07:54 - Nitish Singh: Awesome 🔥
+25/03/2020, 08:19 - CXM11 Shantanu Shubham: Great session 👏
+25/03/2020, 09:15 - Nitish Singh: <Media omitted>
+25/03/2020, 10:07 - CXM46 Kaushal Agarwal: Recording will be shared later
+25/03/2020, 11:20 - CXM43 Bhavna Kumari: Who is attending today?
+25/03/2020, 11:40 - CXM48 Anjali: Awesome 🔥
+25/03/2020, 12:07 - CXM11 Shantanu Shubham: Sounds good!
+25/03/2020, 12:11 - CXM43 Bhavna Kumari: I'll join shortly
+25/03/2020, 13:05 - Nitish Singh: Session starts in 10 mins
+25/03/2020, 13:51 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+25/03/2020, 15:43 - CXM46 Kaushal Agarwal: Can someone share the link?
+25/03/2020, 16:37 - CXM46 Kaushal Agarwal: Great session 👏
+25/03/2020, 17:34 - Nitish Singh: https://github.com/example/project
+25/03/2020, 19:05 - CXM43 Bhavna Kumari: Any updates?
+25/03/2020, 20:07 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+25/03/2020, 20:49 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+25/03/2020, 22:19 - CXM43 Bhavna Kumari: Recording will be shared later
+25/03/2020, 22:24 - CXM48 Anjali: Any updates?
+25/03/2020, 23:16 - CXM46 Kaushal Agarwal: https://github.com/example/project
+25/03/2020, 23:38 - Nitish Singh: Recording will be shared later
+26/03/2020, 00:02 - Nitish Singh: Please check your email
+26/03/2020, 01:40 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+26/03/2020, 03:12 - CXM43 Bhavna Kumari: Recording will be shared later
+26/03/2020, 03:21 - CXM48 Anjali: Session starts in 10 mins
+26/03/2020, 05:18 - CXM11 Shantanu Shubham: Who is attending today?
+26/03/2020, 06:32 - CXM11 Shantanu Shubham: Good morning everyone 😊
+26/03/2020, 07:47 - CXM48 Anjali: Great session 👏
+26/03/2020, 09:09 - CXM11 Shantanu Shubham: Great session 👏
+26/03/2020, 10:39 - CXM11 Shantanu Shubham: I'll join shortly
+26/03/2020, 10:55 - CXM43 Bhavna Kumari: <Media omitted>
+26/03/2020, 12:33 - Nitish Singh: Any updates?
+26/03/2020, 14:06 - CXM46 Kaushal Agarwal: Great session 👏
+26/03/2020, 15:08 - CXM46 Kaushal Agarwal: I'll join shortly
+26/03/2020, 15:29 - CXM46 Kaushal Agarwal: https://github.com/example/project
+26/03/2020, 15:36 - CXM48 Anjali: https://github.com/example/project
+26/03/2020, 17:28 - CXM46 Kaushal Agarwal: Awesome 🔥
+26/03/2020, 18:11 - CXM43 Bhavna Kumari: Great session 👏
+26/03/2020, 19:47 - CXM48 Anjali: Recording will be shared later
+26/03/2020, 20:29 - CXM46 Kaushal Agarwal: 😂😂😂
+26/03/2020, 20:47 - Nitish Singh: 😂😂😂
+26/03/2020, 21:37 - CXM46 Kaushal Agarwal: Please check your email
+26/03/2020, 21:46 - Nitish Singh: Session starts in 10 mins
+26/03/2020, 22:17 - CXM11 Shantanu Shubham: Session starts in 10 mins
+26/03/2020, 23:16 - Nitish Singh: https://github.com/example/project
+27/03/2020, 00:29 - CXM11 Shantanu Shubham: On my way
+27/03/2020, 01:20 - CXM43 Bhavna Kumari: Who is attending today?
+27/03/2020, 02:24 - Nitish Singh: Let's connect on LinkedIn
+27/03/2020, 03:12 - Nitish Singh: <Media omitted>
+27/03/2020, 03:18 - CXM11 Shantanu Shubham: Thanks sir
+27/03/2020, 05:07 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+27/03/2020, 06:46 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+27/03/2020, 07:33 - CXM11 Shantanu Shubham: Awesome 🔥
+27/03/2020, 08:04 - CXM11 Shantanu Shubham: Thanks sir
+27/03/2020, 09:30 - Nitish Singh: Assignment submitted
+27/03/2020, 10:46 - CXM48 Anjali: Who is attending today?
+27/03/2020, 12:02 - CXM11 Shantanu Shubham: Assignment submitted
+27/03/2020, 13:08 - CXM43 Bhavna Kumari: Great session 👏
+27/03/2020, 14:21 - CXM46 Kaushal Agarwal: Awesome 🔥
+27/03/2020, 16:04 - CXM48 Anjali: Great session 👏
+27/03/2020, 17:21 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+27/03/2020, 19:16 - CXM43 Bhavna Kumari: https://github.com/example/project
+27/03/2020, 21:15 - CXM46 Kaushal Agarwal: Great session 👏
+27/03/2020, 23:13 - CXM43 Bhavna Kumari: <Media omitted>
+27/03/2020, 23:22 - Nitish Singh: Sounds good!
+28/03/2020, 00:09 - CXM48 Anjali: Assignment submitted
+28/03/2020, 00:35 - CXM46 Kaushal Agarwal: Please check your email
+28/03/2020, 02:10 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+28/03/2020, 02:34 - CXM11 Shantanu Shubham: Sounds good!
+28/03/2020, 03:02 - CXM46 Kaushal Agarwal: Done 👍
+28/03/2020, 03:07 - CXM43 Bhavna Kumari: On my way
+28/03/2020, 04:56 - Nitish Singh: I'll join shortly
+28/03/2020, 05:43 - CXM48 Anjali: Sounds good!
+28/03/2020, 06:52 - CXM48 Anjali: Any updates?
+28/03/2020, 08:01 - CXM11 Shantanu Shubham: Sounds good!
+28/03/2020, 09:16 - CXM46 Kaushal Agarwal: 😂😂😂
+28/03/2020, 10:58 - CXM43 Bhavna Kumari: Good morning everyone 😊
+28/03/2020, 12:08 - Nitish Singh: Sounds good!
+28/03/2020, 13:47 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+28/03/2020, 15:35 - CXM46 Kaushal Agarwal: Great session 👏
+28/03/2020, 16:55 - CXM46 Kaushal Agarwal: 😂😂😂
+28/03/2020, 18:31 - CXM11 Shantanu Shubham: <Media omitted>
+28/03/2020, 20:08 - CXM11 Shantanu Shubham: Thanks sir
+28/03/2020, 22:07 - CXM48 Anjali: Please check your email
+28/03/2020, 23:27 - CXM46 Kaushal Agarwal: Thanks sir
+29/03/2020, 00:49 - CXM43 Bhavna Kumari: Session starts in 10 mins
+29/03/2020, 01:49 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+29/03/2020, 03:30 - CXM43 Bhavna Kumari: On my way
+29/03/2020, 04:45 - CXM48 Anjali: Recording will be shared later
+29/03/2020, 06:06 - CXM48 Anjali: Thanks sir
+29/03/2020, 07:48 - CXM48 Anjali: Good morning everyone 😊
+29/03/2020, 08:41 - CXM48 Anjali: Who is attending today?
+29/03/2020, 08:56 - CXM43 Bhavna Kumari: <Media omitted>
+29/03/2020, 10:00 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+29/03/2020, 10:34 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+29/03/2020, 12:13 - CXM48 Anjali: On my way
+29/03/2020, 13:51 - CXM46 Kaushal Agarwal: On my way
+29/03/2020, 15:09 - CXM46 Kaushal Agarwal: On my way
+29/03/2020, 15:57 - Nitish Singh: Great session 👏
+29/03/2020, 16:21 - Nitish Singh: 😂😂😂
+29/03/2020, 16:55 - CXM46 Kaushal Agarwal: <Media omitted>
+29/03/2020, 17:52 - CXM43 Bhavna Kumari: Recording will be shared later
+29/03/2020, 19:26 - CXM11 Shantanu Shubham: On my way
+29/03/2020, 21:09 - CXM46 Kaushal Agarwal: On my way
+29/03/2020, 22:27 - CXM43 Bhavna Kumari: Good morning everyone 😊
+29/03/2020, 23:17 - CXM46 Kaushal Agarwal: Done 👍
+29/03/2020, 23:18 - CXM46 Kaushal Agarwal: Thanks sir
+30/03/2020, 00:50 - CXM11 Shantanu Shubham: Assignment submitted
+30/03/2020, 01:19 - CXM46 Kaushal Agarwal: Thanks sir
+30/03/2020, 02:04 - Nitish Singh: <Media omitted>
+30/03/2020, 03:32 - CXM43 Bhavna Kumari: I'll join shortly
+30/03/2020, 04:03 - CXM48 Anjali: Thanks sir
+30/03/2020, 06:01 - CXM43 Bhavna Kumari: Session starts in 10 mins
+30/03/2020, 07:30 - CXM48 Anjali: Session starts in 10 mins
+30/03/2020, 08:28 - CXM48 Anjali: https://github.com/example/project
+30/03/2020, 10:04 - Nitish Singh: Good morning everyone 😊
+30/03/2020, 11:43 - CXM46 Kaushal Agarwal: https://github.com/example/project
+30/03/2020, 11:52 - CXM46 Kaushal Agarwal: Good morning everyone 😊
+30/03/2020, 12:45 - CXM43 Bhavna Kumari: I'll join shortly
+30/03/2020, 14:42 - CXM43 Bhavna Kumari: Any updates?
+30/03/2020, 15:44 - CXM11 Shantanu Shubham: Thanks sir
+30/03/2020, 17:28 - CXM43 Bhavna Kumari: I'll join shortly
+30/03/2020, 17:59 - CXM46 Kaushal Agarwal: Done 👍
+30/03/2020, 19:23 - CXM11 Shantanu Shubham: Recording will be shared later
+30/03/2020, 21:16 - Nitish Singh: On my way
+30/03/2020, 21:19 - CXM43 Bhavna Kumari: Sounds good!
+30/03/2020, 22:02 - CXM11 Shantanu Shubham: Done 👍
+30/03/2020, 22:26 - CXM48 Anjali: Done 👍
+30/03/2020, 22:57 - CXM11 Shantanu Shubham: Session starts in 10 mins
+30/03/2020, 23:15 - CXM43 Bhavna Kumari: Done 👍
+31/03/2020, 00:48 - CXM48 Anjali: Can someone share the link?
+31/03/2020, 01:04 - CXM48 Anjali: <Media omitted>
+31/03/2020, 02:31 - CXM48 Anjali: Recording will be shared later
+31/03/2020, 02:46 - CXM11 Shantanu Shubham: Done 👍
+31/03/2020, 03:19 - Nitish Singh: Thanks sir
+31/03/2020, 04:32 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+31/03/2020, 05:28 - CXM11 Shantanu Shubham: Session starts in 10 mins
+31/03/2020, 06:33 - CXM48 Anjali: Assignment submitted
+31/03/2020, 07:37 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+31/03/2020, 08:46 - CXM43 Bhavna Kumari: I'll join shortly
+31/03/2020, 09:16 - CXM43 Bhavna Kumari: On my way
+31/03/2020, 10:23 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+31/03/2020, 10:25 - CXM43 Bhavna Kumari: https://github.com/example/project
+31/03/2020, 12:15 - Nitish Singh: https://github.com/example/project
+31/03/2020, 13:23 - CXM11 Shantanu Shubham: Can someone share the link?
+31/03/2020, 14:23 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+31/03/2020, 14:41 - CXM43 Bhavna Kumari: Please check your email
+31/03/2020, 16:18 - CXM48 Anjali: On my way
+31/03/2020, 16:42 - Nitish Singh: Sounds good!
+31/03/2020, 17:28 - Nitish Singh: Can someone share the link?
+31/03/2020, 19:15 - CXM46 Kaushal Agarwal: Awesome 🔥
+31/03/2020, 20:29 - CXM11 Shantanu Shubham: 😂😂😂
+31/03/2020, 21:14 - CXM48 Anjali: Session starts in 10 mins
+31/03/2020, 22:54 - CXM48 Anjali: <Media omitted>
+31/03/2020, 22:55 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+01/04/2020, 00:26 - CXM43 Bhavna Kumari: Awesome 🔥
+01/04/2020, 01:16 - CXM48 Anjali: Any updates?
+01/04/2020, 02:33 - CXM48 Anjali: Who is attending today?
+01/04/2020, 04:25 - Nitish Singh: Done 👍
+01/04/2020, 06:02 - CXM48 Anjali: Can someone share the link?
+01/04/2020, 07:32 - CXM46 Kaushal Agarwal: Who is attending today?
+01/04/2020, 09:15 - Nitish Singh: Let's connect on LinkedIn
+01/04/2020, 10:39 - CXM43 Bhavna Kumari: Session starts in 10 mins
+01/04/2020, 12:24 - Nitish Singh: Great session 👏
+01/04/2020, 12:54 - CXM48 Anjali: Done 👍
+01/04/2020, 14:00 - CXM11 Shantanu Shubham: Sounds good!
+01/04/2020, 14:20 - CXM48 Anjali: I'll join shortly
+01/04/2020, 15:46 - CXM43 Bhavna Kumari: Assignment submitted
+01/04/2020, 15:48 - CXM43 Bhavna Kumari: Any updates?
+01/04/2020, 16:35 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+01/04/2020, 16:54 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+01/04/2020, 18:12 - CXM43 Bhavna Kumari: Good morning everyone 😊
+01/04/2020, 18:34 - CXM43 Bhavna Kumari: Done 👍
+01/04/2020, 19:54 - Nitish Singh: Good morning everyone 😊
+01/04/2020, 21:48 - CXM48 Anjali: Assignment submitted
+01/04/2020, 23:01 - Nitish Singh: <Media omitted>
+02/04/2020, 00:33 - CXM11 Shantanu Shubham: I'll join shortly
+02/04/2020, 01:26 - CXM43 Bhavna Kumari: Good morning everyone 😊
+02/04/2020, 01:30 - CXM11 Shantanu Shubham: Great session 👏
+02/04/2020, 02:52 - CXM11 Shantanu Shubham: Please check your email
+02/04/2020, 02:56 - Nitish Singh: Assignment submitted
+02/04/2020, 03:00 - CXM48 Anjali: Who is attending today?
+02/04/2020, 03:01 - Nitish Singh: Session starts in 10 mins
+02/04/2020, 04:03 - CXM43 Bhavna Kumari: Assignment submitted
+02/04/2020, 05:24 - CXM48 Anjali: https://github.com/example/project
+02/04/2020, 06:25 - Nitish Singh: Can someone share the link?
+02/04/2020, 07:59 - CXM11 Shantanu Shubham: I'll join shortly
+02/04/2020, 09:25 - Nitish Singh: Let's connect on LinkedIn
+02/04/2020, 10:44 - Nitish Singh: Great session 👏
+02/04/2020, 12:33 - Nitish Singh: 😂😂😂
+02/04/2020, 14:24 - Nitish Singh: Assignment submitted
+02/04/2020, 14:31 - CXM43 Bhavna Kumari: 😂😂😂
+02/04/2020, 14:44 - CXM46 Kaushal Agarwal: Great session 👏
+02/04/2020, 16:37 - CXM48 Anjali: https://github.com/example/project
+02/04/2020, 16:51 - CXM11 Shantanu Shubham: Sounds good!
+02/04/2020, 18:40 - CXM48 Anjali: Assignment submitted
+02/04/2020, 19:56 - CXM11 Shantanu Shubham: Can someone share the link?
+02/04/2020, 21:40 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+02/04/2020, 23:15 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+03/04/2020, 01:07 - Nitish Singh: Great session 👏
+03/04/2020, 01:12 - CXM46 Kaushal Agarwal: Thanks sir
+03/04/2020, 02:17 - CXM43 Bhavna Kumari: Assignment submitted
+03/04/2020, 03:25 - Nitish Singh: https://github.com/example/project
+03/04/2020, 03:27 - CXM48 Anjali: Assignment submitted
+03/04/2020, 05:21 - Nitish Singh: Awesome 🔥
+03/04/2020, 05:59 - Nitish Singh: 😂😂😂
+03/04/2020, 06:22 - Nitish Singh: Let's connect on LinkedIn
+03/04/2020, 07:24 - CXM48 Anjali: On my way
+03/04/2020, 07:40 - CXM48 Anjali: Who is attending today?
+03/04/2020, 09:10 - Nitish Singh: Recording will be shared later
+03/04/2020, 09:48 - CXM11 Shantanu Shubham: Great session 👏
+03/04/2020, 11:00 - CXM48 Anjali: Great session 👏
+03/04/2020, 12:19 - CXM11 Shantanu Shubham: Recording will be shared later
+03/04/2020, 13:14 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+03/04/2020, 13:25 - CXM43 Bhavna Kumari: <Media omitted>
+03/04/2020, 14:18 - CXM11 Shantanu Shubham: Thanks sir
+03/04/2020, 14:34 - CXM46 Kaushal Agarwal: Done 👍
+03/04/2020, 16:24 - CXM43 Bhavna Kumari: Please check your email
+03/04/2020, 16:38 - CXM46 Kaushal Agarwal: Please check your email
+03/04/2020, 18:09 - CXM48 Anjali: Who is attending today?
+03/04/2020, 20:03 - CXM46 Kaushal Agarwal: <Media omitted>
+03/04/2020, 22:02 - Nitish Singh: Who is attending today?
+03/04/2020, 22:18 - CXM11 Shantanu Shubham: Who is attending today?
+03/04/2020, 22:34 - CXM48 Anjali: Can someone share the link?
+04/04/2020, 00:00 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+04/04/2020, 01:01 - Nitish Singh: https://github.com/example/project
+04/04/2020, 01:38 - CXM43 Bhavna Kumari: https://github.com/example/project
+04/04/2020, 01:50 - CXM43 Bhavna Kumari: Session starts in 10 mins
+04/04/2020, 03:15 - Nitish Singh: Can someone share the link?
+04/04/2020, 03:28 - CXM43 Bhavna Kumari: Recording will be shared later
+04/04/2020, 05:23 - CXM43 Bhavna Kumari: Can someone share the link?
+04/04/2020, 05:44 - CXM48 Anjali: Any updates?
+04/04/2020, 07:01 - CXM48 Anjali: Assignment submitted
+04/04/2020, 08:36 - Nitish Singh: 😂😂😂
+04/04/2020, 09:48 - Nitish Singh: Session starts in 10 mins
+04/04/2020, 09:49 - CXM11 Shantanu Shubham: Good morning everyone 😊
+04/04/2020, 10:17 - CXM11 Shantanu Shubham: Can someone share the link?
+04/04/2020, 12:06 - Nitish Singh: Thanks sir
+04/04/2020, 12:45 - CXM11 Shantanu Shubham: Session starts in 10 mins
+04/04/2020, 13:33 - CXM11 Shantanu Shubham: Can someone share the link?
+04/04/2020, 14:22 - CXM48 Anjali: Can someone share the link?
+04/04/2020, 16:08 - CXM46 Kaushal Agarwal: Can someone share the link?
+04/04/2020, 17:12 - CXM11 Shantanu Shubham: <Media omitted>
+04/04/2020, 18:54 - Nitish Singh: Sounds good!
+04/04/2020, 20:31 - CXM43 Bhavna Kumari: Please check your email
+04/04/2020, 21:38 - CXM48 Anjali: Recording will be shared later
+04/04/2020, 22:28 - CXM43 Bhavna Kumari: Good morning everyone 😊
+04/04/2020, 22:57 - CXM43 Bhavna Kumari: Please check your email
+04/04/2020, 23:38 - CXM43 Bhavna Kumari: 😂😂😂
+05/04/2020, 00:01 - CXM11 Shantanu Shubham: Done 👍
+05/04/2020, 01:54 - Nitish Singh: <Media omitted>
+05/04/2020, 03:46 - CXM46 Kaushal Agarwal: Can someone share the link?
+05/04/2020, 03:47 - CXM11 Shantanu Shubham: Sounds good!
+05/04/2020, 04:59 - CXM43 Bhavna Kumari: Any updates?
+05/04/2020, 06:57 - CXM11 Shantanu Shubham: Session starts in 10 mins
+05/04/2020, 08:25 - CXM48 Anjali: Recording will be shared later
+05/04/2020, 10:18 - CXM46 Kaushal Agarwal: Done 👍
+05/04/2020, 10:58 - CXM43 Bhavna Kumari: 😂😂😂
+05/04/2020, 12:56 - CXM43 Bhavna Kumari: Session starts in 10 mins
+05/04/2020, 14:12 - CXM11 Shantanu Shubham: https://github.com/example/project
+05/04/2020, 15:40 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+05/04/2020, 16:04 - CXM11 Shantanu Shubham: Done 👍
+05/04/2020, 17:43 - CXM43 Bhavna Kumari: On my way
+05/04/2020, 19:24 - CXM11 Shantanu Shubham: 😂😂😂
+05/04/2020, 20:43 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+05/04/2020, 21:29 - Nitish Singh: On my way
+05/04/2020, 23:15 - CXM48 Anjali: Who is attending today?
+06/04/2020, 00:36 - CXM43 Bhavna Kumari: Who is attending today?
+06/04/2020, 01:09 - CXM46 Kaushal Agarwal: Recording will be shared later
+06/04/2020, 02:50 - CXM48 Anjali: Great session 👏
+06/04/2020, 04:29 - CXM43 Bhavna Kumari: <Media omitted>
+06/04/2020, 05:12 - CXM48 Anjali: Who is attending today?
+06/04/2020, 06:21 - CXM48 Anjali: Thanks sir
+06/04/2020, 07:38 - CXM11 Shantanu Shubham: Assignment submitted
+06/04/2020, 09:27 - CXM48 Anjali: Good morning everyone 😊
+06/04/2020, 11:25 - CXM46 Kaushal Agarwal: On my way
+06/04/2020, 13:15 - CXM46 Kaushal Agarwal: Any updates?
+06/04/2020, 14:29 - CXM48 Anjali: Good morning everyone 😊
+06/04/2020, 14:35 - CXM43 Bhavna Kumari: <Media omitted>
+06/04/2020, 15:07 - Nitish Singh: Any updates?
+06/04/2020, 15:24 - CXM11 Shantanu Shubham: Assignment submitted
+06/04/2020, 17:03 - CXM48 Anjali: Assignment submitted
+06/04/2020, 18:20 - Nitish Singh: Who is attending today?
+06/04/2020, 18:31 - CXM48 Anjali: <Media omitted>
+06/04/2020, 20:10 - CXM46 Kaushal Agarwal: On my way
+06/04/2020, 20:23 - CXM46 Kaushal Agarwal: I'll join shortly
+06/04/2020, 21:32 - Nitish Singh: Done 👍
+06/04/2020, 23:19 - Nitish Singh: Please check your email
+07/04/2020, 00:23 - CXM43 Bhavna Kumari: On my way
+07/04/2020, 00:27 - CXM43 Bhavna Kumari: Great session 👏
+07/04/2020, 01:46 - Nitish Singh: Great session 👏
+07/04/2020, 02:13 - Nitish Singh: 😂😂😂
+07/04/2020, 02:15 - CXM48 Anjali: Done 👍
+07/04/2020, 03:32 - CXM11 Shantanu Shubham: Done 👍
+07/04/2020, 04:24 - CXM11 Shantanu Shubham: <Media omitted>
+07/04/2020, 04:54 - CXM48 Anjali: Recording will be shared later
+07/04/2020, 06:32 - CXM43 Bhavna Kumari: Thanks sir
+07/04/2020, 08:22 - CXM11 Shantanu Shubham: Good morning everyone 😊
+07/04/2020, 08:58 - CXM11 Shantanu Shubham: Done 👍
+07/04/2020, 10:36 - Nitish Singh: Recording will be shared later
+07/04/2020, 11:10 - CXM46 Kaushal Agarwal: https://github.com/example/project
+07/04/2020, 11:47 - CXM46 Kaushal Agarwal: Thanks sir
+07/04/2020, 12:59 - CXM48 Anjali: Good morning everyone 😊
+07/04/2020, 13:12 - CXM43 Bhavna Kumari: Any updates?
+07/04/2020, 14:34 - CXM11 Shantanu Shubham: I'll join shortly
+07/04/2020, 14:37 - CXM48 Anjali: Thanks sir
+07/04/2020, 15:22 - CXM11 Shantanu Shubham: Can someone share the link?
+07/04/2020, 17:10 - CXM43 Bhavna Kumari: Please check your email
+07/04/2020, 17:54 - CXM43 Bhavna Kumari: Session starts in 10 mins
+07/04/2020, 18:47 - Nitish Singh: <Media omitted>
+07/04/2020, 20:27 - CXM46 Kaushal Agarwal: <Media omitted>
+07/04/2020, 21:02 - CXM46 Kaushal Agarwal: Thanks sir
+07/04/2020, 21:38 - CXM11 Shantanu Shubham: Recording will be shared later
+07/04/2020, 23:28 - CXM11 Shantanu Shubham: Great session 👏
+08/04/2020, 01:08 - CXM46 Kaushal Agarwal: Awesome 🔥
+08/04/2020, 02:31 - CXM46 Kaushal Agarwal: Great session 👏
+08/04/2020, 02:46 - CXM46 Kaushal Agarwal: Recording will be shared later
+08/04/2020, 04:33 - CXM48 Anjali: 😂😂😂
+08/04/2020, 05:41 - CXM43 Bhavna Kumari: Session starts in 10 mins
+08/04/2020, 07:07 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+08/04/2020, 07:35 - CXM11 Shantanu Shubham: Session starts in 10 mins
+08/04/2020, 08:27 - CXM48 Anjali: Great session 👏
+08/04/2020, 08:57 - CXM46 Kaushal Agarwal: Can someone share the link?
+08/04/2020, 10:16 - CXM11 Shantanu Shubham: Please check your email
+08/04/2020, 10:36 - Nitish Singh: Can someone share the link?
+08/04/2020, 10:39 - CXM11 Shantanu Shubham: <Media omitted>
+08/04/2020, 10:42 - Nitish Singh: Let's connect on LinkedIn
+08/04/2020, 11:52 - Nitish Singh: Session starts in 10 mins
+08/04/2020, 13:36 - CXM46 Kaushal Agarwal: Who is attending today?
+08/04/2020, 14:38 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+08/04/2020, 14:43 - Nitish Singh: Who is attending today?
+08/04/2020, 14:46 - CXM46 Kaushal Agarwal: Done 👍
+08/04/2020, 15:19 - CXM11 Shantanu Shubham: Session starts in 10 mins
+08/04/2020, 15:39 - CXM11 Shantanu Shubham: Assignment submitted
+08/04/2020, 16:39 - CXM46 Kaushal Agarwal: Sounds good!
+08/04/2020, 17:04 - CXM11 Shantanu Shubham: https://github.com/example/project
+08/04/2020, 19:00 - CXM48 Anjali: 😂😂😂
+08/04/2020, 19:17 - CXM11 Shantanu Shubham: 😂😂😂
+08/04/2020, 20:56 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+08/04/2020, 21:31 - CXM46 Kaushal Agarwal: Please check your email
+08/04/2020, 22:45 - CXM46 Kaushal Agarwal: Done 👍
+08/04/2020, 23:56 - CXM46 Kaushal Agarwal: Please check your email
+09/04/2020, 01:24 - CXM46 Kaushal Agarwal: On my way
+09/04/2020, 02:57 - CXM46 Kaushal Agarwal: Session starts in 10 mins
+09/04/2020, 03:02 - CXM43 Bhavna Kumari: <Media omitted>
+09/04/2020, 03:15 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+09/04/2020, 04:57 - CXM11 Shantanu Shubham: Can someone share the link?
+09/04/2020, 04:58 - CXM46 Kaushal Agarwal: Done 👍
+09/04/2020, 05:34 - Nitish Singh: Any updates?
+09/04/2020, 07:24 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+09/04/2020, 09:21 - CXM48 Anjali: Session starts in 10 mins
+09/04/2020, 10:56 - CXM48 Anjali: Awesome 🔥
+09/04/2020, 11:19 - CXM46 Kaushal Agarwal: Assignment submitted
+09/04/2020, 13:00 - CXM11 Shantanu Shubham: On my way
+09/04/2020, 13:13 - CXM11 Shantanu Shubham: Great session 👏
+09/04/2020, 13:37 - Nitish Singh: Done 👍
+09/04/2020, 14:37 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+09/04/2020, 15:50 - Nitish Singh: 😂😂😂
+09/04/2020, 16:34 - CXM48 Anjali: Done 👍
+09/04/2020, 18:10 - Nitish Singh: 😂😂😂
+09/04/2020, 20:02 - CXM43 Bhavna Kumari: Done 👍
+09/04/2020, 21:33 - CXM43 Bhavna Kumari: Thanks sir
+09/04/2020, 23:02 - CXM46 Kaushal Agarwal: Recording will be shared later
+09/04/2020, 23:54 - CXM11 Shantanu Shubham: I'll join shortly
+10/04/2020, 01:11 - CXM43 Bhavna Kumari: Let's connect on LinkedIn
+10/04/2020, 01:45 - Nitish Singh: Session starts in 10 mins
+10/04/2020, 02:23 - CXM43 Bhavna Kumari: Any updates?
+10/04/2020, 03:07 - CXM46 Kaushal Agarwal: Recording will be shared later
+10/04/2020, 04:43 - CXM43 Bhavna Kumari: Any updates?
+10/04/2020, 05:05 - CXM48 Anjali: On my way
+10/04/2020, 05:37 - CXM43 Bhavna Kumari: Any updates?
+10/04/2020, 07:26 - CXM46 Kaushal Agarwal: Sounds good!
+10/04/2020, 08:16 - CXM48 Anjali: On my way
+10/04/2020, 09:06 - CXM11 Shantanu Shubham: Awesome 🔥
+10/04/2020, 10:30 - Nitish Singh: Who is attending today?
+10/04/2020, 12:17 - Nitish Singh: Please check your email
+10/04/2020, 12:31 - CXM48 Anjali: Any updates?
+10/04/2020, 13:56 - CXM46 Kaushal Agarwal: Let's connect on LinkedIn
+10/04/2020, 14:37 - CXM48 Anjali: Awesome 🔥
+10/04/2020, 15:53 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+10/04/2020, 16:28 - CXM46 Kaushal Agarwal: Done 👍
+10/04/2020, 17:50 - CXM46 Kaushal Agarwal: Done 👍
+10/04/2020, 18:40 - CXM43 Bhavna Kumari: I'll join shortly
+10/04/2020, 20:15 - CXM11 Shantanu Shubham: Thanks sir
+10/04/2020, 20:27 - CXM43 Bhavna Kumari: Who is attending today?
+10/04/2020, 21:21 - CXM43 Bhavna Kumari: Done 👍
+10/04/2020, 22:32 - Nitish Singh: On my way
+10/04/2020, 23:08 - CXM48 Anjali: <Media omitted>
+10/04/2020, 23:16 - CXM48 Anjali: 😂😂😂
+11/04/2020, 01:11 - CXM43 Bhavna Kumari: Sounds good!
+11/04/2020, 02:16 - CXM43 Bhavna Kumari: Any updates?
+11/04/2020, 03:17 - CXM11 Shantanu Shubham: Great session 👏
+11/04/2020, 04:37 - CXM43 Bhavna Kumari: Assignment submitted
+11/04/2020, 04:38 - CXM43 Bhavna Kumari: Assignment submitted
+11/04/2020, 06:14 - CXM11 Shantanu Shubham: Session starts in 10 mins
+11/04/2020, 07:39 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+11/04/2020, 07:52 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+11/04/2020, 08:56 - CXM46 Kaushal Agarwal: 😂😂😂
+11/04/2020, 09:33 - Nitish Singh: Awesome 🔥
+11/04/2020, 11:22 - CXM11 Shantanu Shubham: Session starts in 10 mins
+11/04/2020, 12:58 - CXM48 Anjali: Great session 👏
+11/04/2020, 14:50 - CXM43 Bhavna Kumari: Good morning everyone 😊
+11/04/2020, 16:37 - CXM11 Shantanu Shubham: Meeting link: https://meet.google.com/abc-defg-hij
+11/04/2020, 17:07 - CXM43 Bhavna Kumari: Sounds good!
+11/04/2020, 18:00 - CXM43 Bhavna Kumari: Good morning everyone 😊
+11/04/2020, 18:47 - CXM11 Shantanu Shubham: I'll join shortly
+11/04/2020, 19:33 - Nitish Singh: Sounds good!
+11/04/2020, 20:36 - CXM43 Bhavna Kumari: I'll join shortly
+11/04/2020, 22:10 - CXM43 Bhavna Kumari: On my way
+11/04/2020, 23:46 - Nitish Singh: Please check your email
+12/04/2020, 01:12 - Nitish Singh: Great session 👏
+12/04/2020, 02:52 - Nitish Singh: I'll join shortly
+12/04/2020, 04:31 - CXM48 Anjali: On my way
+12/04/2020, 06:26 - CXM43 Bhavna Kumari: <Media omitted>
+12/04/2020, 06:36 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+12/04/2020, 07:35 - CXM43 Bhavna Kumari: https://github.com/example/project
+12/04/2020, 08:23 - CXM11 Shantanu Shubham: Can someone share the link?
+12/04/2020, 08:53 - CXM43 Bhavna Kumari: Who is attending today?
+12/04/2020, 09:26 - CXM46 Kaushal Agarwal: On my way
+12/04/2020, 09:53 - CXM11 Shantanu Shubham: Who is attending today?
+12/04/2020, 11:50 - Nitish Singh: <Media omitted>
+12/04/2020, 12:52 - CXM46 Kaushal Agarwal: Assignment submitted
+12/04/2020, 14:16 - CXM48 Anjali: Meeting link: https://meet.google.com/abc-defg-hij
+12/04/2020, 16:10 - CXM48 Anjali: <Media omitted>
+12/04/2020, 17:07 - CXM48 Anjali: Can someone share the link?
+12/04/2020, 17:08 - CXM48 Anjali: Recording will be shared later
+12/04/2020, 18:06 - CXM48 Anjali: 😂😂😂
+12/04/2020, 19:35 - CXM43 Bhavna Kumari: https://github.com/example/project
+12/04/2020, 21:22 - Nitish Singh: On my way
+12/04/2020, 22:30 - CXM43 Bhavna Kumari: Awesome 🔥
+12/04/2020, 23:59 - CXM46 Kaushal Agarwal: Any updates?
+13/04/2020, 01:54 - CXM46 Kaushal Agarwal: Sounds good!
+13/04/2020, 02:10 - Nitish Singh: Any updates?
+13/04/2020, 02:26 - CXM43 Bhavna Kumari: Done 👍
+13/04/2020, 03:57 - Nitish Singh: Session starts in 10 mins
+13/04/2020, 04:55 - CXM11 Shantanu Shubham: Let's connect on LinkedIn
+13/04/2020, 05:54 - CXM11 Shantanu Shubham: Great session 👏
+13/04/2020, 07:27 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+13/04/2020, 09:10 - Nitish Singh: Assignment submitted
+13/04/2020, 09:32 - CXM43 Bhavna Kumari: Good morning everyone 😊
+13/04/2020, 10:50 - CXM46 Kaushal Agarwal: I'll join shortly
+13/04/2020, 12:12 - Nitish Singh: Recording will be shared later
+13/04/2020, 13:47 - CXM43 Bhavna Kumari: Awesome 🔥
+13/04/2020, 14:14 - CXM46 Kaushal Agarwal: On my way
+13/04/2020, 14:40 - Nitish Singh: Who is attending today?
+13/04/2020, 15:42 - CXM11 Shantanu Shubham: Any updates?
+13/04/2020, 15:50 - Nitish Singh: Assignment submitted
+13/04/2020, 16:07 - CXM43 Bhavna Kumari: Recording will be shared later
+13/04/2020, 16:09 - CXM43 Bhavna Kumari: I'll join shortly
+13/04/2020, 17:48 - CXM11 Shantanu Shubham: Awesome 🔥
+13/04/2020, 18:37 - CXM48 Anjali: Done 👍
+13/04/2020, 19:01 - CXM11 Shantanu Shubham: Sounds good!
+13/04/2020, 20:21 - Nitish Singh: Meeting link: https://meet.google.com/abc-defg-hij
+13/04/2020, 21:45 - CXM46 Kaushal Agarwal: Who is attending today?
+13/04/2020, 23:08 - CXM48 Anjali: Recording will be shared later
+14/04/2020, 00:30 - Nitish Singh: Can someone share the link?
+14/04/2020, 01:03 - CXM11 Shantanu Shubham: I'll join shortly
+14/04/2020, 02:44 - CXM43 Bhavna Kumari: Meeting link: https://meet.google.com/abc-defg-hij
+14/04/2020, 03:10 - CXM46 Kaushal Agarwal: Awesome 🔥
+14/04/2020, 03:24 - CXM46 Kaushal Agarwal: Meeting link: https://meet.google.com/abc-defg-hij
+14/04/2020, 04:36 - Nitish Singh: Done 👍
+14/04/2020, 05:52 - CXM46 Kaushal Agarwal: Please check your email
+14/04/2020, 06:38 - CXM48 Anjali: Any updates?
+14/04/2020, 07:40 - CXM48 Anjali: https://github.com/example/project
+14/04/2020, 08:38 - CXM46 Kaushal Agarwal: <Media omitted>
+14/04/2020, 09:14 - Nitish Singh: Thanks sir
+14/04/2020, 10:22 - CXM46 Kaushal Agarwal: Please check your email
+14/04/2020, 12:15 - Nitish Singh: Let's connect on LinkedIn
+14/04/2020, 13:42 - CXM11 Shantanu Shubham: Can someone share the link?
+14/04/2020, 13:48 - CXM43 Bhavna Kumari: https://github.com/example/project
+14/04/2020, 15:44 - CXM11 Shantanu Shubham: https://github.com/example/project
+14/04/2020, 17:16 - Nitish Singh: Who is attending today?
+14/04/2020, 17:31 - CXM46 Kaushal Agarwal: Thanks sir
+14/04/2020, 19:30 - CXM43 Bhavna Kumari: Session starts in 10 mins
+14/04/2020, 21:18 - CXM46 Kaushal Agarwal: <Media omitted>
+14/04/2020, 22:56 - CXM43 Bhavna Kumari: Recording will be shared later
+14/04/2020, 23:30 - CXM43 Bhavna Kumari: Who is attending today?
+15/04/2020, 01:25 - CXM43 Bhavna Kumari: Recording will be shared later
+15/04/2020, 02:00 - CXM43 Bhavna Kumari: Thanks sir
+15/04/2020, 03:25 - CXM43 Bhavna Kumari: https://github.com/example/project
